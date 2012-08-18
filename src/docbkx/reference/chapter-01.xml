@@ -1,0 +1,79 @@
+﻿<!DOCTYPE preface PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+"http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
+<chapter>
+	<title>Bonjour</title>
+	<subtitle>Hello</subtitle>
+
+	<section>
+		<title>Before you start</title>
+		<para>
+			Read the Introduction to the course. This gives some useful advice on studying alone and how to make
+			the most of the course.
+		</para>
+		<para>
+			Make sure you've got your recording next to you as you'll need it to listen to the Pronunciation guide and Dialogues sections.
+			If you don't have the recording, use the Pronunciation guide in the book.
+		</para>
+	</section>
+
+	<section>
+		<title>Key words and phrases</title>
+		<table>
+			<tgroup cols="2">
+				<tbody>
+					<row><entry>bonjour</entry><entry>good morning/afternoon, hello</entry></row>
+					<row><entry>bonsoir</entry><entry>good evening (after 5.00 p.m.)</entry></row>
+					<row><entry>bonne nuit</entry><entry>good night (when going to bed)</entry></row>
+					<row><entry>au revoir</entry><entry>goodbye</entry></row>
+					<row><entry>bonjour, Madame</entry><entry>good morning (Madam)</entry></row>
+					<row><entry>bonjour, Mademoiselle</entry><entry>good morning (Miss)</entry></row>
+					<row><entry>bonsoir, Monsieur</entry><entry>good evening (Sir)</entry></row>
+					<row><entry>au revoir, Messieurs-dames</entry><entry>goodbye ladies and gentlemen</entry></row>
+					<row><entry>oui</entry><entry>yes</entry></row>
+					<row><entry>non, merci</entry><entry>no, thank you</entry></row>
+					<row><entry>merci</entry><entry>thank you</entry></row>
+					<row><entry>merci beaucoup</entry><entry>thank you very much</entry></row>
+				</tbody>
+			</tgroup>
+		</table>
+
+		<para>TODO finish this table</para>
+
+		<note>
+			<para>
+				When you see a linking mark '_' between two words, sound the last letter of the first word as though it were attached to
+				the next word: vous parlez_anglais?
+			</para>
+		</note>
+	</section>
+	
+	<section>
+		<title>Dialogues</title>
+		<para>Listen to the recording and hear people practicing saying 'hello' and greeting each other in French.</para>
+		<para>Press the pause button after each sentence and repeat aloud.</para>
+		<note>
+			<para>Pay particular attention to the way the 's' in Messieurs and Monsieur is pronounced. It should sound as in pass and not as in shop.</para>
+		</note>
+		<table>
+			<title>SAYING 'HELLO'</title>
+			<tgroup cols="2">
+				<tbody>
+					<row><entry>Jane</entry><entry>Bonjour, Messieurs-dames.</entry></row>
+					<row><entry>Michel</entry><entry>Bonjour, Mademoiselle.</entry></row>
+					<row><entry>Jane</entry><entry>Bonjour, Monsieur</entry></row>
+				</tbody>
+			</tgroup>
+		</table>
+	</section>
+
+	<section>
+		<title>Grammar</title>
+		<section>
+			<title>SIMPLE QUESTIONS</title>
+			<para>The simplest way of asking something in French is to raise your voice on the last syllable (part of a word):</para>
+			<para>Vous parlez_anglais? Pardon? Ça va?</para>
+			<para>Now practise saying pardon? (to have something repeated) and pardon (to apologize or attract someone's attention).</para>
+		</section>
+	</section>
+
+</chapter>
