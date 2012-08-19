@@ -18,7 +18,7 @@
 
 	<section>
 		<title>Key words and phrases</title>
-		<table>
+		<table frame="none">
 			<tgroup cols="2">
 				<tbody>
 					<row><entry>bonjour</entry><entry>good morning/afternoon, hello</entry></row>
