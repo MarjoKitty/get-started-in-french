@@ -14,10 +14,13 @@
 			like) and s'il vous plait at the end.
 		</para>
 		<para>
-			<emphasis>Essayez!</emphasis> Have a go! You are in a patisserie (cake shop) in
-			France to buy a baguette (French stick).
+			<emphasis>Essayez!</emphasis>
+			Have a go! You are in a patisserie (cake shop) in
+			France to buy a
+			baguette (French stick).
 			How would you greet the woman
-			behind the counter? How would you ask for a French stick?
+			behind the
+			counter? How would you ask for a French stick?
 		</para>
 	</section>
 
@@ -26,41 +29,53 @@
 		<para>
 			une cafe - a coffee/a cafe
 			un the - a tea
-			un coca-cola - a coca-cola
+			un coca-cola - a
+			coca-cola
 			un_euro - a euro
 			un journal - a newspaper
-			un plan - a map, plan
+			un plan - a map,
+			plan
 			une baguette - a French stick
 			une biere - a beer
-			une chambre - a room
+			une chambre - a
+			room
 			une pharmacie - a chemist's
 			une station-service - a petrol station
 			le timbre - the stamp
 			la carte postale - the postcard
-			la gare - the station
+			la gare - the
+			station
 			l'hotel (m) - the hotel
 			l'hopital (m) - the hospital
-			l'eau minerale (f) - the mineral/bottled natural water
-			gazeuse/plate - sparkling/still
+			l'eau
+			minerale (f) - the mineral/bottled natural water
+			gazeuse/plate -
+			sparkling/still
 			l'addition (f) - the bill
 			les toilettes - the toilets
 			je voudrais - I would like
 			vous_avez ...? - Do you have ...?
-			ca - this/that
+			ca -
+			this/that
 			du pain - some bread
 			du vin - some wine
-			de la limonade - some lemonade
+			de la limonade - some
+			lemonade
 			de l'aspirine (f) - some aspirins
-			des sandwiches - some sandwiches
+			des sandwiches - some
+			sandwiches
 			c'est combien? - how much is it? (lit. it is how much?)
-			un kilo - one kilo
+			un
+			kilo - one kilo
 			un demi-kilo - half a kilo
 			une paquet - one pack
-			une bouteille - one bottle
+			une
+			bouteille - one bottle
 			une boite - one tin, box
 
 			ferme - shut
-			je n'en_ai pas - I haven't got any
+			je n'en_ai
+			pas - I haven't got any
 			avec ca? - will that be all? (lit. with that?)
 			c'est tout? - is that all?
 		</para>
@@ -74,7 +89,8 @@
 				4 quatre
 				5 cinq
 				6 six
-				7 sept (the p is not pronounced)
+				7 sept (the p is not
+				pronounced)
 				8 huit
 				9 neuf
 				10 dix
@@ -84,119 +100,136 @@
 	<section>
 		<title>Dialogue</title>
 		<para>
-			Jane is in <emphasis>une alimentation</emphasis> (grocer's shop). What does she want
-			to buy? Does she get what she wants? Listen to the recording first,
-			answer the questions, then check your answers.
+			Jane is in
+			<emphasis>une alimentation</emphasis>
+			(grocer's shop). What does she want
+			to buy? Does she get what she
+			wants? Listen to the recording first,
+			answer the questions, then check
+			your answers.
 		</para>
-	<table frame="none">
-		<tgroup cols="2">
-			<tbody>
-				<row>
-					<entry>Jane</entry>
-					<entry>Vous_avez de la biere?</entry>
-				</row>
-				<row>
-					<entry>Vendeuse</entry>
-					<entry>Ah non, je regrette, je n'en_ai pas.</entry>
-				</row>
-				<row>
-					<entry>Jane</entry>
-					<entry>Et du vin?</entry>
-				</row>
-				<row>
-					<entry>Vendeuse</entry>
-					<entry>Euh oui. <emphasis>Quel vin</emphasis> desirez-vous?</entry>
-				</row>
-				<row>
-					<entry>Jane</entry>
-					<entry>Je voudrais une bouteille de Muscadet.</entry>
-				</row>
-				<row>
-					<entry>Vendeuse</entry>
-					<entry>Oui, voila ... et avec ca?</entry>
-				</row>
-				<row>
-					<entry>Jane</entry>
-					<entry>Deux bouteilles d'eau minerale.</entry>
-				</row>
-				<row>
-					<entry>Vendeuse</entry>
-					<entry>De la gazeuse ou de la plate?</entry>
-				</row>
-				<row>
-					<entry>Jane</entry>
-					<entry>De la plate</entry>
-				</row>
-				<row>
-					<entry>Vendeuse</entry>
-					<entry>Bon, tres bien. C'est tout?</entry>
-				</row>
-				<row>
-					<entry>Jane</entry>
-					<entry>Oui, merci. C'est combine?</entry>
-				</row>
-				<row>
-					<entry>Vendeuse</entry>
-					<entry>Pour le Muscadet, c'est 6E50 et pour l'eau minerale, 1E30 la bouteille.</entry>
-				</row>
-			</tbody>
-		</tgroup>
-	</table>
-	<para>
-		la vendeuse - the shop assistant (female)
-		quel vin? which wine?
-		voila there you are
-		six_euros cinquante six euros fifty
-		un_euro trente one euro thirty
+		<table frame="none">
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Jane</entry>
+						<entry>Vous_avez de la biere?</entry>
+					</row>
+					<row>
+						<entry>Vendeuse</entry>
+						<entry>Ah non, je regrette, je n'en_ai pas.</entry>
+					</row>
+					<row>
+						<entry>Jane</entry>
+						<entry>Et du vin?</entry>
+					</row>
+					<row>
+						<entry>Vendeuse</entry>
+						<entry>
+							Euh oui.
+							<emphasis>Quel vin</emphasis>
+							desirez-vous?
+						</entry>
+					</row>
+					<row>
+						<entry>Jane</entry>
+						<entry>Je voudrais une bouteille de Muscadet.</entry>
+					</row>
+					<row>
+						<entry>Vendeuse</entry>
+						<entry>Oui, voila ... et avec ca?</entry>
+					</row>
+					<row>
+						<entry>Jane</entry>
+						<entry>Deux bouteilles d'eau minerale.</entry>
+					</row>
+					<row>
+						<entry>Vendeuse</entry>
+						<entry>De la gazeuse ou de la plate?</entry>
+					</row>
+					<row>
+						<entry>Jane</entry>
+						<entry>De la plate</entry>
+					</row>
+					<row>
+						<entry>Vendeuse</entry>
+						<entry>Bon, tres bien. C'est tout?</entry>
+					</row>
+					<row>
+						<entry>Jane</entry>
+						<entry>Oui, merci. C'est combine?</entry>
+					</row>
+					<row>
+						<entry>Vendeuse</entry>
+						<entry>Pour le Muscadet, c'est 6E50 et pour l'eau minerale, 1E30
+							la bouteille.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para>
+			la vendeuse - the shop assistant (female)
+			quel vin? which wine?
+			voila there you are
+			six_euros cinquante six euros fifty
+			un_euro trente one euro thirty
 	</para>
-	<section>
-		<title>HOW TO PRONOUNCE ... SIX ET DIX</title>
-		<itemizedlist>
-			<listitem>
-				<para>
-					When six and dix are on their own as numbers the x is pronounced as s
-					and they rhyme with 'peace': vous_avez des
-					timbres? Oui, six.
+		<section>
+			<title>HOW TO PRONOUNCE ... SIX ET DIX</title>
+			<itemizedlist>
+				<listitem>
+					<para>
+						When six and dix are on their own as numbers the x is pronounced as s
+						and they rhyme with 'peace': vous_avez des
+						timbres? Oui, six.
 				</para>
-			</listitem>
-			<listitem>
-				<para>
-					When followed by a word starting with a consonant the x is not
-					pronounced and they sound like 'dee' and 'see': dix kilos, six
-					bieres.
+				</listitem>
+				<listitem>
+					<para>
+						When followed by a word starting with a consonant the x is not
+						pronounced and they sound like 'dee' and 'see': dix kilos, six
+						bieres.
 				</para>
-			</listitem>
-			<listitem>
-				<para>
-					When followed by a word starting with a vowel or h pronounce the x and s
-					as z: six_euros, dix_hotels.
+				</listitem>
+				<listitem>
+					<para>
+						When followed by a word starting with a vowel or h pronounce the x and
+						s
+						as z: six_euros, dix_hotels.
 				</para>
-			</listitem>
-		</itemizedlist>
-	</section>	
-	
+				</listitem>
+			</itemizedlist>
+		</section>
+
 	</section>
-	
+
 	<section>
 		<title>Grammar</title>
 		<section>
 			<title>WORDS FOR 'A', 'AN': UN, UNE</title>
 			<para>
-				The word a or an is un in front of a masculine noun and une in front of a feminine noun. All French
-				nouns belong to one of the two groups: masculine or feminine. Sometimes it is obvious as in un Francais a Frenchman,
-				une Francaise a Frenchwoman while at other times it is not obvious as in un cafe but une biere.
+				The word a or an is un in front of a masculine noun and une in
+				front of a feminine noun. All French
+				nouns belong to one of the two
+				groups: masculine or feminine. Sometimes it is obvious as in un
+				Francais a Frenchman,
+				une Francaise a Frenchwoman while at other
+				times it is not obvious as in un cafe but une biere.
 			</para>
 			<para>
-				There is no rule to tell you to which group a noun belongs, although the ending of a noun often acts as a guide.
+				There is no rule to tell you to which group a noun belongs,
+				although the ending of a noun often acts as a guide.
 				For example:
 			</para>
 			<itemizedlist>
 				<listitem>
-					<para>words ending in -age, -ment are often masculine, as in le village, le moment.</para>
+					<para>words ending in -age, -ment are often masculine, as in le
+						village, le moment.</para>
 				</listitem>
 				<listitem>
-					<para>words ending in -lle, -tte, -ion, -ee are often feminine as in une bouteille, une cigarette,
-					une alimentation, une annee.</para>
+					<para>words ending in -lle, -tte, -ion, -ee are often feminine as
+						in une bouteille, une cigarette,
+						une alimentation, une annee.</para>
 				</listitem>
 			</itemizedlist>
 		</section>
@@ -213,20 +246,77 @@
 					<para>la with feminine nouns - la gare</para>
 				</listitem>
 				<listitem>
-					<para>l' with nouns starting with a vowel or an h - l'hotel (m), l'eau (f)</para>
+					<para>l' with nouns starting with a vowel or an h - l'hotel (m),
+						l'eau (f)</para>
 				</listitem>
 				<listitem>
 					<para>les with plural nouns - les toilettes</para>
 				</listitem>
 			</itemizedlist>
-			
+
 			<note>
 				<para>
-					Plural nouns usually take an s at the end. Make a habit of learning words together with le or la before them.
-					If they start with a vowel or h, they are followed by (m) or (f) in Key words and phrases to indicate whether
+					Plural nouns usually take an s at the end. Make a habit of
+					learning words together with le or la before them.
+					If they start
+					with a vowel or h, they are followed by (m) or (f) in Key words and
+					phrases to indicate whether
 					they are masculine or feminine.
 				</para>
 			</note>
+		</section>
+		<section>
+			<title>VOUS AVEZ ...? DO YOU HAVE ...?</title>
+			<para>
+				To check if they have what you want, start your request with
+				vous avez (do you have). To indicate that it is a question
+				raise the
+				voice on the last syllable of the sentence: Vous_avez un plan? Do
+				you have a street map?
+			</para>
+		</section>
+		<section>
+			<title>WORDS FOR 'SOME', 'ANY': DU, DE LA, DE L', DES</title>
+			<para>Compare the excamples below:
+			<table frame="none">
+				<tgroup cols="2">
+					<tbody>
+						<row>
+							<entry>Je voudrais du vin.</entry>
+							<entry>I would like some wine.</entry>
+						</row>
+						<row>
+							<entry>Je voudrais le vin.</entry>
+							<entry>I would like the wine.</entry>
+						</row>
+						<row>
+							<entry>Vous_avez de la biere?</entry>
+							<entry>Do you have any beer?</entry>
+						</row>
+						<row>
+							<entry>Vous_avez la biere?</entry>
+							<entry>Do you have the beer?</entry>
+						</row>
+						<row>
+							<entry>Vous_avez de l'eau minerale?</entry>
+							<entry>Have you any mineral water?</entry>
+						</row>
+						<row>
+							<entry>Vous_avez l'eau minerale?</entry>
+							<entry>Do you have the mineral water?</entry>
+						</row>
+						<row>
+							<entry>Je voudrais des timbres.</entry>
+							<entry>I would like some stamps.</entry>
+						</row>
+						<row>
+							<entry>Je voudrais des timbres.</entry>
+							<entry>I would like the stamps.</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			</para>			
 		</section>
 	</section>
 
