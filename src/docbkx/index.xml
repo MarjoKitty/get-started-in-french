@@ -25,7 +25,8 @@
 
   <toc />
   
-  <xi:include href="reference/chapter-01.xml"/>
-  <xi:include href="reference/chapter-02.xml"/>
+  <xi:include href="reference/chapter-01.xml" />
+  <xi:include href="reference/chapter-02.xml" />
+  <xi:include href="reference/chapter-03.xml" />
 
 </book>
