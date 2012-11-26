@@ -1,82 +1,78 @@
 <chapter xmlns="http://docbook.org/ns/docbook" id="how-much-is-it">
 	<title>C'est combien?</title>
 	<subtitle>How much is it?</subtitle>
+	<abstract>
+		<para>In this unit you will learn how to
+		<itemizedlist spacing="compact">
+			<listitem><para>Count up to ten</para></listitem>
+			<listitem><para>Ask for something</para></listitem>
+			<listitem><para>Say how much you want</para></listitem>
+			<listitem><para>Ask the price</para></listitem>
+		</itemizedlist>
+		</para>
+	</abstract>
 
 	<section>
 		<title>Before you start</title>
 
 		<para>
-			In this unit we will show you that it is nearly always possible
-			to ask for what
-			you want with just two words, je voudrais (I would
-			like) and s'il vous plait at the end.
+			In this unit we will show you that it is nearly always possible	to ask for what	you want
+			with just two words, <b>je voudrais</b> (<i>I would like</i>) and <b>s'il vous plait</b>
+			at the end.
 		</para>
 		<para>
-			<emphasis>Essayez!</emphasis>
-			Have a go! You are in a patisserie (cake shop) in
-			France to buy a
-			baguette (French stick).
-			How would you greet the woman
-			behind the
-			counter? How would you ask for a French stick?
+			<i>Essayez!</i>	Have a go! You are in a <b>patisserie</b> (<i>cake shop</i>) in France to buy a
+			<b>baguette</b> (<i>French stick</i>). How would you greet the woman behind the counter? How would you
+			ask for a French stick?
 		</para>
 	</section>
 
 	<section>
 		<title>Key words and phrases</title>
-		<para>
-			une cafe - a coffee/a cafe
-			un the - a tea
-			un coca-cola - a
-			coca-cola
-			un_euro - a euro
-			un journal - a newspaper
-			un plan - a map,
-			plan
-			une baguette - a French stick
-			une biere - a beer
-			une chambre - a
-			room
-			une pharmacie - a chemist's
-			une station-service - a petrol station
-			le timbre - the stamp
-			la carte postale - the postcard
-			la gare - the
-			station
-			l'hotel (m) - the hotel
-			l'hopital (m) - the hospital
-			l'eau
-			minerale (f) - the mineral/bottled natural water
-			gazeuse/plate -
-			sparkling/still
-			l'addition (f) - the bill
-			les toilettes - the toilets
-			je voudrais - I would like
-			vous_avez ...? - Do you have ...?
-			ca -
-			this/that
-			du pain - some bread
-			du vin - some wine
-			de la limonade - some
-			lemonade
-			de l'aspirine (f) - some aspirins
-			des sandwiches - some
-			sandwiches
-			c'est combien? - how much is it? (lit. it is how much?)
-			un
-			kilo - one kilo
-			un demi-kilo - half a kilo
-			une paquet - one pack
-			une
-			bouteille - one bottle
-			une boite - one tin, box
-
-			ferme - shut
-			je n'en_ai
-			pas - I haven't got any
-			avec ca? - will that be all? (lit. with that?)
-			c'est tout? - is that all?
-		</para>
+		<table>
+			<tgroup cols="2">
+				<tbody>
+					<row><entry>un café</entry><entry>a coffee/a café</entry></row>
+					<row><entry>un thé</entry><entry>a tea</entry></row>
+					<row><entry>un coca-cola</entry><entry>a coca-cola</entry></row>
+					<row><entry>un_euro</entry><entry>a euro</entry></row>
+					<row><entry>un journal</entry><entry>a newspaper</entry></row>
+					<row><entry>un plan</entry><entry>a map, plan</entry></row>
+					<row><entry>une baguette</entry><entry>a French stick</entry></row>
+					<row><entry>une bière</entry><entry>a beer</entry></row>
+					<row><entry>une chambre</entry><entry>a room</entry></row>
+					<row><entry>une pharmacie</entry><entry>a chemist's</entry></row>
+					<row><entry>une station-service</entry><entry>a petrol station</entry></row>
+					<row><entry>le timbre</entry><entry>the stamp</entry></row>
+					<row><entry>la carte postale</entry><entry>the postcard</entry></row>
+					<row><entry>la gare</entry><entry>the station</entry></row>
+					<row><entry>l'hôtel (m)</entry><entry>the hotel</entry></row>
+					<row><entry>l'hôpital (m)</entry><entry>the hospital</entry></row>
+					<row><entry>l'eau minérale (f)</entry><entry>the mineral/bottled natural water</entry></row>
+					<row><entry>gazeuse/plate</entry><entry>sparkling/still</entry></row>
+					<row><entry>l'addition (f)</entry><entry>the bill</entry></row>
+					<row><entry>les toilettes</entry><entry>the toilets</entry></row>
+					<row><entry>je voudrais</entry><entry>I would like</entry></row>
+					<row><entry>vous_avez ...?</entry><entry>Do you have ...?</entry></row>
+					<row><entry>ça</entry><entry>this/that</entry></row>
+					<row><entry>du pain</entry><entry>some bread</entry></row>
+					<row><entry>du vin</entry><entry>some wine</entry></row>
+					<row><entry>de la limonade</entry><entry>some lemonade</entry></row>
+					<row><entry>de l'aspirine (f)</entry><entry>some aspirins</entry></row>
+					<row><entry>des sandwiches</entry><entry>some sandwiches</entry></row>
+					<row><entry>c'est combien?</entry><entry>how much is it? (lit. it is how much?)</entry></row>
+					<row><entry>un kilo</entry><entry>one kilo</entry></row>
+					<row><entry>un demi-kilo</entry><entry>half a kilo</entry></row>
+					<row><entry>une paquet</entry><entry>one pack</entry></row>
+					<row><entry>une	bouteille</entry><entry>one bottle</entry></row>
+					<row><entry>une boîte</entry><entry>one tin, box</entry></row>
+					<row><entry>fermé</entry><entry>shut</entry></row>
+					<row><entry>je n'en_ai pas</entry><entry>I haven't got any</entry></row>
+					<row><entry>avec ça?</entry><entry>will that be all? (lit. with that?)</entry></row>
+					<row><entry>c'est tout?</entry><entry>is that all?</entry></row>
+				</tbody>
+			</tgroup>
+		</table>
 
 		<section>
 			<title>NUMBERS 1-10</title>
@@ -98,104 +94,47 @@
 	<section>
 		<title>Dialogue</title>
 		<para>
-			Jane is in
-			<emphasis>une alimentation</emphasis>
-			(grocer's shop). What does she want
-			to buy? Does she get what she
-			wants? Listen to the recording first,
-			answer the questions, then check
-			your answers.
+			<i>Jane is in <b>une alimentation</b> (grocer's shop). What does she want to buy? Does
+			she get what she wants? Listen to the recording first, answer the questions, then check
+			your answers.</i>
 		</para>
-		<table frame="none">
-			<tgroup cols="2">
-				<tbody>
-					<row>
-						<entry>Jane</entry>
-						<entry>Vous_avez de la biere?</entry>
-					</row>
-					<row>
-						<entry>Vendeuse</entry>
-						<entry>Ah non, je regrette, je n'en_ai pas.</entry>
-					</row>
-					<row>
-						<entry>Jane</entry>
-						<entry>Et du vin?</entry>
-					</row>
-					<row>
-						<entry>Vendeuse</entry>
-						<entry>
-							Euh oui.
-							<emphasis>Quel vin</emphasis>
-							desirez-vous?
-						</entry>
-					</row>
-					<row>
-						<entry>Jane</entry>
-						<entry>Je voudrais une bouteille de Muscadet.</entry>
-					</row>
-					<row>
-						<entry>Vendeuse</entry>
-						<entry>Oui, voila ... et avec ca?</entry>
-					</row>
-					<row>
-						<entry>Jane</entry>
-						<entry>Deux bouteilles d'eau minerale.</entry>
-					</row>
-					<row>
-						<entry>Vendeuse</entry>
-						<entry>De la gazeuse ou de la plate?</entry>
-					</row>
-					<row>
-						<entry>Jane</entry>
-						<entry>De la plate</entry>
-					</row>
-					<row>
-						<entry>Vendeuse</entry>
-						<entry>Bon, tres bien. C'est tout?</entry>
-					</row>
-					<row>
-						<entry>Jane</entry>
-						<entry>Oui, merci. C'est combine?</entry>
-					</row>
-					<row>
-						<entry>Vendeuse</entry>
-						<entry>Pour le Muscadet, c'est 6E50 et pour l'eau minerale, 1E30
-							la bouteille.</entry>
-					</row>
-				</tbody>
-			</tgroup>
-		</table>
-		<para>
-			la vendeuse - the shop assistant (female)
-			quel vin? which wine?
-			voila there you are
-			six_euros cinquante six euros fifty
-			un_euro trente one euro thirty
-	</para>
+		<itemizedlist spacing="compact">
+			<listitem><para>Jane : Vous_avez de la bière?</para></listitem>
+			<listitem><para>Vendeuse : Ah non, je regrette, je n'en_ai pas.</para></listitem>
+			<listitem><para>Jane : Et du vin?</para></listitem>
+			<listitem><para>Vendeuse : Euh oui. <b>Quel vin</b> dèsirez-vous?</para></listitem>
+			<listitem><para>Jane : Je voudrais une bouteille de Muscadet.</para></listitem>
+			<listitem><para>Vendeuse : Oui, <b>voilà</b> ... et avec ça?</para></listitem>
+			<listitem><para>Jane : Deux bouteilles d'eau minérale.</para></listitem>
+			<listitem><para>Vendeuse : De la gazeuse ou de la plate?</para></listitem>
+			<listitem><para>Jane : De la plate.</para></listitem>
+			<listitem><para>Vendeuse : Bon, très bien. C'est tout?</para></listitem>
+			<listitem><para>Jane : Oui, merci. C'est combine?</para></listitem>
+			<listitem><para>Vendeuse : Pour le Muscadet, c'est <b>6€50</b> et pour l'eau minérale, <b>1€30</b> la bouteille.</para></listitem>
+		</itemizedlist>
+		<note>
+			<para><b>la vendeuse</b> - the shop assistant (female)</para>
+			<para><b>quel vin?</b> which wine?</para>
+			<para><b>voilà</b> there you are</para>
+			<para><b>six_euros</b> cinquante six euros fifty</para>
+			<para><b>un_euro</b> trente one euro thirty</para>
+		</note>
 		<section>
 			<title>HOW TO PRONOUNCE ... SIX ET DIX</title>
-			<itemizedlist>
-				<listitem>
-					<para>
-						When six and dix are on their own as numbers the x is pronounced as s
-						and they rhyme with 'peace': vous_avez des
-						timbres? Oui, six.
-				</para>
-				</listitem>
-				<listitem>
-					<para>
-						When followed by a word starting with a consonant the x is not
-						pronounced and they sound like 'dee' and 'see': dix kilos, six
-						bieres.
-				</para>
-				</listitem>
-				<listitem>
-					<para>
-						When followed by a word starting with a vowel or h pronounce the x and
-						s
-						as z: six_euros, dix_hotels.
-				</para>
-				</listitem>
+			<itemizedlist spacing="compact">
+				<listitem><para>
+					When <b>six</b> and <b>dix</b> are on their own as numbers the <b>x</b> is
+					pronounced as <b>s</b> and they rhyme with 'peace': <b>vous_avez des
+					timbres? Oui, six.</b>
+				</para></listitem>
+				<listitem><para>
+					When followed by a word starting with a consonant the <b>x</b> is not
+					pronounced and they sound like 'dee' and 'see': <b>dix kilos</b>, <b>six bières</b>.
+				</para></listitem>
+				<listitem><para>
+					When followed by a word starting with a vowel or <b>h</b> pronounce the <b>x</b> and
+					<b>s</b> as <b>z</b>: <b>six_euros</b>, <b>dix_hôtels</b>.
+				</para></listitem>
 			</itemizedlist>
 		</section>
 
