@@ -44,15 +44,23 @@
 					<useExtensions>1</useExtensions>
 					<highlightSource>1</highlightSource>
 					<hyphenate>false</hyphenate>
-					<!-- <bodyFontFamily>LucidaSansTypewriter</bodyFontFamily> -->
+					<bodyFontFamily>Maian</bodyFontFamily>
 					<fonts>
 						<font>
-							<name>LucidaSansTypewriter</name>
+							<name>Maian</name>
 							<style>normal</style>
 							<weight>normal</weight>
-							<embedFile>${project.basedir}/src/fonts/LTYPE.TTF</embedFile>
-							<metricsFile>${project.basedir}/target/fonts/LTYPE-metrics.xml</metricsFile>
+							<embedFile>${project.basedir}/src/fonts/Maian.TTF</embedFile>
+							<metricsFile>${project.basedir}/target/fonts/Maian-metrics.xml</metricsFile>
 						</font>
+												<font>
+							<name>Maian</name>
+							<style>italic</style>
+							<weight>normal</weight>
+							<embedFile>${project.basedir}/src/fonts/Maiandit.TTF</embedFile>
+							<metricsFile>${project.basedir}/target/fonts/Maiandit-metrics.xml</metricsFile>
+						</font>
+
 					</fonts>
 				</configuration>
 			</plugin>
