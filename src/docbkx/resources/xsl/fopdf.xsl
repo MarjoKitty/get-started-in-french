@@ -52,6 +52,8 @@
 			</fo:table>
 		</fo:block>
 	</xsl:template>
+	
+	<xsl:param name="title.font.family">Maian</xsl:param>
 
     <!-- Prevent blank pages in output -->
     <xsl:template name="book.titlepage.before.verso"></xsl:template>
