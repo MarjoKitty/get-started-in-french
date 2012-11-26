@@ -1,82 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+	xmlns:docbook="http://docbook.org/ns/docbook"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:fo="http://www.w3.org/1999/XSL/Format"
+	exclude-result-prefixes="docbook">
 
-    This is the XSL FO (PDF) stylesheet for the Spring Data reference
-    documentation.
--->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-                xmlns:fo="http://www.w3.org/1999/XSL/Format"
-                version="1.0">
+	<!--
+		The reference documentation for all user-configurable parameters in the DocBook XSL FO stylesheets
+		(for generating XSL-FO output destined for final print/PDF output) can be found here:
+		http://docbook.sourceforge.net/release/xsl/1.75.1/doc/fo/index.html
+	-->
 
+<!-- import the main stylesheet, here pointing to fo/docbook.xsl -->
 
-    <xsl:import href="urn:docbkx:stylesheet"/>
-    <xsl:import href="highlight-fo.xsl"/>
+	<xsl:import href="urn:docbkx:stylesheet" />
+	<xsl:import href="urn:docbkx:stylesheet/highlight.xsl"/>
+	<xsl:import href="highlight-fo.xsl" />
 
-    <!--###################################################
-                  Custom Title Page
-   ################################################### -->
-
-    <xsl:template name="book.titlepage.recto">
-        <fo:block>
-            <fo:table table-layout="fixed" width="175mm">
-                <fo:table-column column-width="175mm"/>
-                <fo:table-body>
-                    <fo:table-row>
-                        <fo:table-cell text-align="center">
-                            <fo:block font-family="Helvetica" font-size="22pt" padding-before="10mm">
-                                <xsl:value-of select="bookinfo/subtitle"/> 
-                            </fo:block>
-                            <fo:block font-family="Helvetica" font-size="14pt" padding="10mm">
-                                <xsl:value-of select="bookinfo/title"/>
-                            </fo:block>
-                            <fo:block font-family="Helvetica" font-size="12pt" padding="10mm">
-                                <xsl:value-of select="bookinfo/releaseinfo"/>
-                            </fo:block>
-                        </fo:table-cell>
-                    </fo:table-row>
-                    <fo:table-row>
-                        <fo:table-cell text-align="center">
-                            <fo:block font-family="Helvetica" font-size="14pt" padding="10mm">
-                                <xsl:value-of select="bookinfo/pubdate"/>
-                            </fo:block>
-                        </fo:table-cell>
-                    </fo:table-row>
-                    <fo:table-row>
-                        <fo:table-cell text-align="center">
-                            <fo:block font-family="Helvetica" font-size="12pt" padding="10mm">
-                                <xsl:for-each select="bookinfo/authorgroup/author">
-                                    <xsl:if test="position() > 1">
-                                        <xsl:text>, </xsl:text>
-                                    </xsl:if>
-                                    <xsl:value-of select="firstname"/>
-                                    <xsl:text> </xsl:text>
-                                    <xsl:value-of select="surname"/>
-                                    <!-- <xsl:text> (</xsl:text>
-                                    <xsl:value-of select="affiliation"/>
-                                    <xsl:text>)</xsl:text> -->
-                                </xsl:for-each>
-                            </fo:block>
-                            <fo:block font-family="Helvetica" font-size="12pt" padding="10mm">
+	<!-- Title Page Customization -->
+	<!-- TODO: Check where this constant comes from. -->
+	<xsl:template name="book.titlepage.recto"> 
+		<fo:block>
+			<fo:table table-layout="fixed" width="175mm">
+				<fo:table-column column-width="175mm" />
+				<fo:table-body>
+					<fo:table-row>
+						<fo:table-cell text-align="center">
+							<fo:block font-family="Helvetica" font-size="22pt" padding-before="10mm">
+								<xsl:value-of select="docbook:info/docbook:title"/>
+							</fo:block>
+						</fo:table-cell>
+					</fo:table-row>
+					<fo:table-row>
+						<fo:table-cell text-align="center">
+							<fo:block font-family="Helvetica" font-size="12pt" padding="10mm">
+								<xsl:for-each select="docbook:info/docbook:authorgroup/docbook:author/docbook:personname">
+									<xsl:if test="position() > 1">
+										<xsl:text>, </xsl:text>
+									</xsl:if>
+									<xsl:value-of select="docbook:firstname"/>
+									<xsl:text> </xsl:text>
+									<xsl:value-of select="docbook:surname"/>
+								</xsl:for-each>
+							</fo:block>
+							<fo:block font-family="Helvetica" font-size="12pt" padding="10mm">
 								<xsl:text>Copyright &#xA9; 2012</xsl:text>
 							</fo:block>
-
-                            <fo:block font-family="Helvetica" font-size="10pt" padding="1mm">
-                                <xsl:value-of select="bookinfo/legalnotice"/>
-                            </fo:block>
-                        </fo:table-cell>
-                    </fo:table-row>
-                </fo:table-body>
-            </fo:table>
-        </fo:block>
-    </xsl:template>
+						</fo:table-cell>
+					</fo:table-row>
+				</fo:table-body>
+			</fo:table>
+		</fo:block>
+	</xsl:template>
 
     <!-- Prevent blank pages in output -->
-    <xsl:template name="book.titlepage.before.verso">
-    </xsl:template>
-    <xsl:template name="book.titlepage.verso">
-    </xsl:template>
-    <xsl:template name="book.titlepage.separator">
-    </xsl:template>
+    <xsl:template name="book.titlepage.before.verso"></xsl:template>
+    <xsl:template name="book.titlepage.verso"></xsl:template>
+    <xsl:template name="book.titlepage.separator"></xsl:template>
 
     <!--###################################################
                      Header
@@ -91,63 +71,13 @@
         <xsl:attribute name="margin-right">-5em</xsl:attribute>
     </xsl:attribute-set>
 
-    <!--###################################################
-                     Custom Footer
-   ################################################### -->
-    <xsl:template name="footer.content">
-        <xsl:param name="pageclass" select="''"/>
-        <xsl:param name="sequence" select="''"/>
-        <xsl:param name="position" select="''"/>
-        <xsl:param name="gentext-key" select="''"/>
-		<xsl:variable name="Version">
-			<xsl:if test="//releaseinfo">
-				<xsl:text>Spring Data JPA (</xsl:text><xsl:value-of select="//releaseinfo" /><xsl:text>)</xsl:text>
-			</xsl:if>
-		</xsl:variable>
-        <xsl:choose>
-            <xsl:when test="$sequence='blank'">
-                <xsl:if test="$position = 'center'">
-                    <xsl:value-of select="$Version"/>
-                </xsl:if>
-            </xsl:when>
-            <!-- for double sided printing, print page numbers on alternating sides (of the page) -->
-            <xsl:when test="$double.sided != 0">
-                <xsl:choose>
-                    <xsl:when test="$sequence = 'even' and $position='left'">
-                        <fo:page-number/>
-                    </xsl:when>
-                    <xsl:when test="$sequence = 'odd' and $position='right'">
-                        <fo:page-number/>
-                    </xsl:when>
-                    <xsl:when test="$position='center'">
-                        <xsl:value-of select="$Version"/>
-                    </xsl:when>
-                </xsl:choose>
-            </xsl:when>
-            <!-- for single sided printing, print all page numbers on the right (of the page) -->
-            <xsl:when test="$double.sided = 0">
-                <xsl:choose>
-                    <xsl:when test="$position='center'">
-                        <xsl:value-of select="$Version"/>
-                    </xsl:when>
-                    <xsl:when test="$position='right'">
-                        <fo:page-number/>
-                    </xsl:when>
-                </xsl:choose>
-            </xsl:when>
-        </xsl:choose>
-    </xsl:template>
 
     <!--###################################################
                      Extensions
    ################################################### -->
-
-    <!-- These extensions are required for table printing and other stuff -->
-    <xsl:param name="tablecolumns.extension">0</xsl:param>
-    <!-- FOP provide only PDF Bookmarks at the moment -->
-    <xsl:param name="fop.extensions">1</xsl:param>
-    <xsl:param name="fop1.extensions">1</xsl:param>
-    <xsl:param name="ignore.image.scaling">0</xsl:param>
+<xsl:param name="tablecolumns.extension" select="0" />
+<xsl:param name="fop1.extensions" select="1" />
+<xsl:param name="ignore.image.scaling" select="0" />
 
     <!--###################################################
                      Table Of Contents
@@ -158,37 +88,37 @@
         book toc
     </xsl:param>
 
-    <!-- Show only Sections up to level 3 in the TOCs -->
+    <!-- Specifies the depth to which recursive sections should appear in the TOC. --> 
     <xsl:param name="toc.section.depth">2</xsl:param>
 
-    <!-- Dot and Whitespace as separator in TOC between Label and Title-->
-    <xsl:param name="autotoc.label.separator" select="'.  '"/>
 
 
     <!--###################################################
                   Paper & Page Size
    ################################################### -->
-
     <!-- Paper type, no headers on blank pages, no double sided printing -->
     <xsl:param name="paper.type" select="'A4'"/>
     <xsl:param name="double.sided">0</xsl:param>
+    <xsl:param name="page.margin.top">5mm</xsl:param>
+    <xsl:param name="page.margin.bottom">5mm</xsl:param>
+    <xsl:param name="page.margin.outer">15mm</xsl:param>
+    <xsl:param name="page.margin.inner">15mm</xsl:param>
+    
+    <xsl:param name="body.margin.bottom">15mm</xsl:param>
+    <xsl:param name="body.margin.top">10mm</xsl:param>
+    <xsl:param name="body.start.indent">0pt</xsl:param>
+    
+    
     <xsl:param name="headers.on.blank.pages">0</xsl:param>
     <xsl:param name="footers.on.blank.pages">0</xsl:param>
 
     <!-- Space between paper border and content (chaotic stuff, don't touch) -->
-    <xsl:param name="page.margin.top">5mm</xsl:param>
     <xsl:param name="region.before.extent">10mm</xsl:param>
-    <xsl:param name="body.margin.top">10mm</xsl:param>
-
-    <xsl:param name="body.margin.bottom">15mm</xsl:param>
     <xsl:param name="region.after.extent">10mm</xsl:param>
-    <xsl:param name="page.margin.bottom">0mm</xsl:param>
 
-    <xsl:param name="page.margin.outer">18mm</xsl:param>
-    <xsl:param name="page.margin.inner">18mm</xsl:param>
 
     <!-- No intendation of Titles -->
-    <xsl:param name="title.margin.left">0pc</xsl:param>
+    <xsl:param name="title.margin.left">0pt</xsl:param>
 
     <!--###################################################
                   Fonts & Styles
@@ -203,14 +133,14 @@
     <xsl:param name="body.font.small">8</xsl:param>
 
     <!-- Line height in body text -->
-    <xsl:param name="line-height">1.4</xsl:param>
+    <xsl:param name="line-height">1.2</xsl:param>
 
     <!-- Monospaced fonts are smaller than regular text -->
     <xsl:attribute-set name="monospace.properties">
         <xsl:attribute name="font-family">
             <xsl:value-of select="$monospace.font.family"/>
         </xsl:attribute>
-        <xsl:attribute name="font-size">0.8em</xsl:attribute>
+        <xsl:attribute name="font-size">0.9em</xsl:attribute>
     </xsl:attribute-set>
 
     <!--###################################################
@@ -250,21 +180,11 @@
         <xsl:attribute name="text-align">left</xsl:attribute>
         <xsl:attribute name="font-weight">bold</xsl:attribute>
         <xsl:attribute name="font-size">
-            <xsl:value-of select="$body.font.master * 1.8"/>
+            <xsl:value-of select="$body.font.master * 1.5"/>
             <xsl:text>pt</xsl:text>
         </xsl:attribute>
     </xsl:attribute-set>
 
-    <!-- Why is the font-size for chapters hardcoded in the XSL FO templates? 
-        Let's remove it, so this sucker can use our attribute-set only... -->
-    <xsl:template match="title" mode="chapter.titlepage.recto.auto.mode">
-        <fo:block xmlns:fo="http://www.w3.org/1999/XSL/Format"
-                  xsl:use-attribute-sets="chapter.titlepage.recto.style">
-            <xsl:call-template name="component.title">
-                <xsl:with-param name="node" select="ancestor-or-self::chapter[1]"/>
-            </xsl:call-template>
-        </fo:block>
-    </xsl:template>
 
     <!-- Sections 1, 2 and 3 titles have a small bump factor and padding -->
     <xsl:attribute-set name="section.title.level1.properties">
@@ -429,16 +349,11 @@
             </xsl:choose>
         </fo:basic-link>
     </xsl:template>
-    <!--
-    
-    <xsl:template match="xref">
-        <fo:basic-link internal-destination="{@linkend}"
-                xsl:use-attribute-sets="xref.properties"
-                text-decoration="underline"
-                color="blue">
-				<xsl:apply-templates/>
-        </fo:basic-link>
-    </xsl:template>    
-    -->
+	
+	<xsl:template match="docbook:i">
+    <fo:inline font-style="italic">
+        <xsl:apply-templates/>  
+    </fo:inline>
+    </xsl:template>
 
 </xsl:stylesheet>

@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
-"http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
-<book xmlns:xi="http://www.w3.org/2001/XInclude">
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude">
   <bookinfo>
     <title>GET STARTED IN FRENCH</title>
 
-    <releaseinfo>&version;</releaseinfo>
+    <releaseinfo>ccc</releaseinfo>
 
     <authorgroup>
       <author>
@@ -24,9 +22,10 @@
   </bookinfo>
 
   <toc />
-  
+
+
   <xi:include href="reference/chapter-01.xml" />
   <xi:include href="reference/chapter-02.xml" />
   <xi:include href="reference/chapter-03.xml" />
-
+ 
 </book>

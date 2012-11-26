@@ -1,6 +1,4 @@
-<!DOCTYPE preface PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
-"http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
-<chapter>
+<chapter xmlns="http://docbook.org/ns/docbook">
 	<title>Je m'appelle ... et vous?</title>
 	<subtitle>My name is ... what's yours?</subtitle>
 	<para>

@@ -15,11 +15,10 @@
 
 	<build>
 		<plugins>
-
 			<plugin>
 				<groupId>com.agilejava.docbkx</groupId>
 				<artifactId>docbkx-maven-plugin</artifactId>
-				<version>2.0.7</version>
+				<version>2.0.14</version>
 				<executions>
 					<execution>
 						<goals>
@@ -30,9 +29,11 @@
 				</executions>
 				<dependencies>
 					<dependency>
-						<groupId>org.docbook</groupId>
+						<groupId>net.sf.docbook</groupId>
 						<artifactId>docbook-xml</artifactId>
-						<version>4.4</version>
+						<version>5.0-all</version>
+						<classifier>resources</classifier>
+						<type>zip</type>
 						<scope>runtime</scope>
 					</dependency>
 				</dependencies>
@@ -40,18 +41,37 @@
 					<includes>index.xml</includes>
 					<xincludeSupported>true</xincludeSupported>
 					<foCustomization>${project.basedir}/src/docbkx/resources/xsl/fopdf.xsl</foCustomization>
-					<htmlStylesheet>css/html.css</htmlStylesheet>
-					<chunkedOutput>false</chunkedOutput>
-					<htmlCustomization>${project.basedir}/src/docbkx/resources/xsl/html.xsl</htmlCustomization>
 					<useExtensions>1</useExtensions>
 					<highlightSource>1</highlightSource>
-					<entities>
-						<entity>
-							<name>version</name>
-							<value>${project.version}</value>
-						</entity>
-					</entities>
+					<hyphenate>false</hyphenate>
+					<!-- <bodyFontFamily>LucidaSansTypewriter</bodyFontFamily> -->
+					<fonts>
+						<font>
+							<name>LucidaSansTypewriter</name>
+							<style>normal</style>
+							<weight>normal</weight>
+							<embedFile>${project.basedir}/src/fonts/LTYPE.TTF</embedFile>
+							<metricsFile>${project.basedir}/target/fonts/LTYPE-metrics.xml</metricsFile>
+						</font>
+					</fonts>
 				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>com.agilejava.docbkx</groupId>
+				<artifactId>docbkx-fop-support</artifactId>
+				<version>2.0.14</version>
+				<executions>
+					<execution>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+						<configuration>
+							<sourceDirectory></sourceDirectory>
+							<ansi>true</ansi>
+						</configuration>
+					</execution>
+				</executions>
 			</plugin>
 		</plugins>
 	</build>
