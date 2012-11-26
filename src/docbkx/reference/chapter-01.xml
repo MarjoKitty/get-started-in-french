@@ -1,22 +1,32 @@
 ﻿<chapter xmlns="http://docbook.org/ns/docbook" id="bonjour">
 	<title>Bonjour</title>
 	<subtitle>Hello</subtitle>
+	<abstract>
+		<para>In this unit you will learn how to
+		<itemizedlist>
+			<listitem><para><b>Say 'hello' and 'goodbye'</b></para></listitem>
+			<listitem><para><b>Exchange greetings</b></para></listitem>
+			<listitem><para><b>Observe basic courtesies</b></para></listitem>
+			<listitem><para><b>Ask people to speak more slowly</b></para></listitem>
+		</itemizedlist>
+		</para>
+	</abstract>
 
 	<section>
 		<title>Before you start</title>
 		<para>
-			Read the Introduction to the course. This gives some useful advice on studying alone and how to make
+			Read the <b>Introduction</b> to the course. This gives some useful advice on studying alone and how to make
 			the most of the course.
 		</para>
 		<para>
-			Make sure you've got your recording next to you as you'll need it to listen to the Pronunciation guide and Dialogues sections.
-			If you don't have the recording, use the Pronunciation guide in the book.
+			Make sure you've got your recording next to you as you'll need it to listen to the <b>Pronunciation guide</b>
+			and <b>Dialogues</b> sections. If you don't have the recording, use the <b>Pronunciation guide</b> in the book.
 		</para>
 	</section>
 
 	<section>
 		<title>Key words and phrases</title>
-		<table frame="none">
+		<table>
 			<tgroup cols="2">
 				<tbody>
 					<row><entry>bonjour</entry><entry>good morning/afternoon, hello</entry></row>
@@ -31,16 +41,25 @@
 					<row><entry>non, merci</entry><entry>no, thank you</entry></row>
 					<row><entry>merci</entry><entry>thank you</entry></row>
 					<row><entry>merci beaucoup</entry><entry>thank you very much</entry></row>
+					<row><entry>s'il vous plait</entry><entry>please</entry></row>
+					<row><entry>d'accord</entry><entry>OK</entry></row>
+					<row><entry>pardon</entry><entry>sorry (to apologize), excuse me</entry></row>
+					<row><entry>comment ca va? ca va (informal)</entry><entry>how are things? fine</entry></row>
+					<row><entry>(tres) bien merci</entry><entry>(very) well thank you</entry></row>
+					<row><entry><b>comment vas-tu?</b></entry><entry>how are you?</entry></row>
+					<row><entry>comment_allez-vous? (formal)</entry><entry>how are you?</entry></row>
+					<row><entry>je vais bien et toi?</entry><entry>I am well - how about you?</entry></row>
+					<row><entry>et vous? (formal)</entry><entry>and you?</entry></row>
+					<row><entry>vous parlez_anglais?</entry><entry>do you speak English?</entry></row>
+					<row><entry>parlez plus lentement</entry><entry>speak more slowly</entry></row>
 				</tbody>
 			</tgroup>
 		</table>
 
-		<para>TODO finish this table</para>
-
 		<note>
 			<para>
 				When you see a linking mark '_' between two words, sound the last letter of the first word as though it were attached to
-				the next word: vous parlez_anglais?
+				the next word: <b>vous parlez_anglais?</b>
 			</para>
 		</note>
 	</section>
@@ -66,11 +85,40 @@
 
 	<section>
 		<title>Grammar</title>
-		<section>
-			<title>SIMPLE QUESTIONS</title>
+		<section><title>SIMPLE QUESTIONS</title>
 			<para>The simplest way of asking something in French is to raise your voice on the last syllable (part of a word):</para>
-			<para>Vous parlez_anglais? Pardon? Ça va?</para>
-			<para>Now practise saying pardon? (to have something repeated) and pardon (to apologize or attract someone's attention).</para>
+			<para>Vous parlez_an<b>glais</b>? Par<b>don</b>? Ça <b>va</b>?</para>
+			<para>Now practise saying par<b>don</b>? (to have something repeated) and <b>pardon</b> (to apologize or attract someone's attention).</para>
+		</section>
+		<section><title>REFUSING POLITELY IN FRENCH</title>
+		<para>
+			If you want to refuse something in France, you can say <b>non merci</b> or <b>merci</b> on its own.
+		</para>
+		</section>
+		<section><title>CALLING THE WAITER'S ATTENTION</title>
+		<para>
+			Although garcon is the word for waiter, today you would usually say Monsieur to attract
+			his attention. For a waitress, you say Madame or Mademoiselle as you think fir or just look
+			expectant and say s'il vous plait.
+		</para>
+		<note>
+			<para>Don't forget to shorten Mademoiselle to Mad'moiselle to make it sound more French!</para>
+		</note>
+		</section>
+		<section><title>HOW TO BE COURTEOUS</title>
+			<para>In France when you're talking to someone you don't know very well, it's polite to add
+			<b>Monsieur</b>, <b>Madame</b>, <b>Mademoiselle</b> particularly after short phrases like
+			<b>oui</b>, <b>non</b>, <b>bonjour</b> or <b>merci</b>.</para>
+			<para>The French shake hands with good friends and acquaintances every time they meet or say
+			goodbye. Kissing (on both cheeks) is reserved for family and close friends.</para>
+		</section>
+		<section><title>WHEN TO USE TU (YOU) AND WHEN TO USE VOUS (YOU)</title>
+			<para>The equivalent of <i>you</i> in French can be either <b>tu</b> or <b>vous</b>. French
+			people use <b>tu</b> when speaking to children, teenagers, relations and close friends.
+			They use <b>vous</b> in work and business situations or when speaking to senior or old
+			people: <b>vous</b> is also used to address a group of people to whom one might say <b>tu</b>
+			individually. The best advice is to say <b>vous</b> until you are addressed as <b>tu</b>
+			or asked to use the <b>tu</b> form: <b>on se tutoie?</b> <i>shall we call each other <b>tu</b>?</i></para>
 		</section>
 	</section>
 

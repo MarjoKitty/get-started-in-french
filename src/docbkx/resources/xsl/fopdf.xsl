@@ -357,5 +357,11 @@
         <xsl:apply-templates/>  
     </fo:inline>
     </xsl:template>
+		<xsl:template match="docbook:b">
+    <fo:inline color="blue">
+        <xsl:apply-templates/>  
+    </fo:inline>
+    </xsl:template>
+
 
 </xsl:stylesheet>

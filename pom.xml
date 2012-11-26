@@ -53,13 +53,22 @@
 							<embedFile>${project.basedir}/src/fonts/Maian.TTF</embedFile>
 							<metricsFile>${project.basedir}/target/fonts/Maian-metrics.xml</metricsFile>
 						</font>
-												<font>
+						<font>
 							<name>Maian</name>
 							<style>italic</style>
 							<weight>normal</weight>
 							<embedFile>${project.basedir}/src/fonts/Maiandit.TTF</embedFile>
 							<metricsFile>${project.basedir}/target/fonts/Maiandit-metrics.xml</metricsFile>
 						</font>
+						<!--
+						<font>
+							<name>Maian</name>
+							<style>normal</style>
+							<weight>bold</weight>
+							<embedFile>${project.basedir}/src/fonts/Maiandb.TTF</embedFile>
+							<metricsFile>${project.basedir}/target/fonts/Maiandb-metrics.xml</metricsFile>
+						</font>
+						-->
 
 					</fonts>
 				</configuration>
