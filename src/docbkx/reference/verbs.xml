@@ -1,0 +1,113 @@
+﻿<chapter xmlns="http://docbook.org/ns/docbook">
+	<title>Verbs</title>
+	<section><title>FORMATION AND USE OF TENSES IN FRENCH</title>
+	<para>
+	The present tense is used:
+	<itemizedlist>
+	<listitem>
+	<para>to describe an action happening at the moment you speak.</para>
+	<para><b>Je prends un livre et je lis.</b> <i>I take a book and I read.</i></para>
+	</listitem>
+	<listitem>
+	<para>to express usual actions occurring regularly.</para>
+	<para><b>Je me lève tous les matins à 6 heures.</b> <i>I get up every morning at 6 o'clock.</i></para>
+	<para><b>Il prend le train trois fois par semaine.</b> <i>He takes the train three times a week.</i></para>
+	</listitem>
+	<listitem>
+	<para>with some expressions of time, when the present action is near another future or past action:</para>
+	<para><b>Ils arrivent demain.</b> <i>They are arriving tomorrow.</i></para>
+	</listitem>
+	</itemizedlist>
+	</para>
+	
+	<section><title>The imperfect</title>
+	
+	<para>The imperfect tense is used:</para>
+	<itemizedlist>
+	<listitem>
+	<para>to describe something that used to happen frequently or regularly in the past.</para>
+	<para><b>Quand j'étais jeune j'allais souvent à la piscine.</b> <i>When I was young I often used to go to the swimming pool.</i></para>
+	</listitem>
+	<listitem>
+	<para>to describe something that lasted for a long period, when there is no indication of when
+	it started or finished.</para>
+	<para><b>Nous habitions dans une petite maison.</b> <i>We used to live in a little house.</i></para>
+	</listitem>
+	<listitem>
+	<para>in certain situations to describe a continuous action in relation to another action which
+	is expressed in the perfect tense.</para>
+	<para><b>Que faisiez-vous quand l'accident est arrivé?</b> <i>What were you doing when the accident happened?</i></para>
+	</listitem>
+	<listitem>
+	<para>to express a wish or make a suggestion.</para>
+	<para><b>Si on allait en ville ce soir?</b> <i>How about going into town this evening?</i></para>
+	</listitem>
+	<listitem>
+	<para>with <b>pendant que</b>.</para>
+	<para><b>Pendant que je dormais il faisait le ménage.</b> <i>While I was sleeping he was doing the housework.</i></para>
+	</listitem>
+	<listitem>
+	<para>with <b>depusi</b> to describe how long an action had been going on.</para>
+	<para><b>Depusi deux heures je l'attendais.</b> <i>I had been waiting for him/her for two hours.</i></para>
+	</listitem>
+	</itemizedlist>
+	</section>
+	<section><title>The perfect</title>
+	<para>The <i>perfect</i> is a compound tense formed by the relevant form of the present tense of the auxiliary
+	verb with the past participle. <b>Avoir</b> is used to form the compound tense of most verbs. <b>Être</b> is used
+	to form the compound tenses of reflexive verbs (see ???) and for verbs of motion such as <b>aller, arriver,
+	descendre, devenir, entrer, monter, naître, partir, passer, rentrer, rester, retourner, sortir, tomber</b>
+	and <b>venir</b>. All the verbs in the verb list that take <b>être</b> rather than <b>avoir</b> are marked with an *.</para>
+	<table>
+	<tgroup cols="2">
+	<tbody>
+		<row><entry>j'ai mang<b>é</b></entry><entry>je suis descend<b>u(e)</b></entry></row>
+		<row><entry>tu as mang<b>é</b></entry><entry>tu es descend<b>u(e)</b></entry></row>
+		<row><entry>il/elle a mang<b>é</b></entry><entry>il/elle est descend<b>u(e)</b></entry></row>
+		<row><entry>nous avons mang<b>é</b></entry><entry>nous sommes descend<b>u(e)s</b></entry></row>
+		<row><entry>vous avez mang<b>é</b></entry><entry>vous êtes descend<b>u(e)s</b></entry></row>
+		<row><entry>ils/elles ont mang<b>é</b></entry><entry>ils/elles sont descend<b>u(e)s</b></entry></row>
+	</tbody>
+	</tgroup>
+	</table>
+	<para>The perfect tense is used:</para>
+	<itemizedlist>
+	<listitem><para>to describe an action which is completed and which is no longer happening. It is
+	the most commonly used of the past tenses.</para>
+	<para><b>J'ai acheté une voiture neuve.</b> <i>I have bought a new car.</i></para>
+	<para><b>Je suis allé(e) au cinéma.</b> <i>I went to the cinema.</i></para>
+	</listitem>
+	</itemizedlist>
+	<para>When used with the auxiliary <b>être</b>, past participles work in the same way as adjectives.
+	They show gender (feminine or masculine) by adding <b>-e</b> if the subject is feminine; they
+	show number (singular or plural) by adding <b>-s</b> if the subject is masculine plural, and <b>-es</b>
+	for feminine plural:</para>
+	<para><b>Elles sont arrivées.</b> (<i>feminine, plural</i>) <i>They have arrived.</i></para>
+	<para>
+	When used with the auxiliary <b>avoir</b>, the past participle agrees in number and gender with the
+	direct object when the direct object comes before the participle and:</para>
+	<itemizedlist>
+	<listitem>
+	<para>in a clause introduced by the relative pronoun <b>que</b>.</para>
+	<para><b>Les roses qu'elle a achetées.</b> (<i>feminine, plural</i>) <i>The roses (that) she has bought.</i></para>
+	</listitem>
+	<listitem>
+	<para>in a clause introduced by <b>combien de..., quel, quelle, lequel</b> and so on.</para>
+	<para><b>Combien de personnes avez-vous invitées?</b> (<i>feminine, plural</i>) <i>How many people have you invited?</i></para>
+	</listitem>
+	<listitem>
+	<para>when the pronoun is the direct object.</para>
+	<para><b>Je les ai vus hier soir.</b> (<i>masculine, plural</i>) <i>I saw them yesterday.</i></para>
+	</listitem>
+	</itemizedlist>
+	<para>
+	However, with the auxiliary <b>avoir</b> the past participle does not agree when the direct object
+	is placed after the past participle.
+	</para>
+	<para><b>Elle a acheté des roses.</b> <i>She bought some roses.</i></para>
+	<para>If you are referring to the immediate past (i.e. to something you have just done) the past
+	tense can be avoided by using <b>venir de</b> and the infinitive of the verb.</para>
+	<para><b>Je viens de finir mon travail.</b> <i>I have just finished my work.</i></para>
+	</section>
+	</section>
+</chapter>

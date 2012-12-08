@@ -28,5 +28,6 @@
   <xi:include href="reference/chapter-02.xml" />
   <xi:include href="reference/chapter-03.xml" />
   <xi:include href="reference/dictionary.xml" />
+  <xi:include href="reference/verbs.xml" />
  
 </book>
