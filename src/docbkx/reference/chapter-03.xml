@@ -147,15 +147,18 @@
 			In French the equivalent infinitive is <b>parler</b>. It follows the same pattern as many other
 			verbs with infinitives ending in <b>-er</b>. Here is the present tense of parler:
 		</para>
-		</section>
-		<para>
-			je parl<b>e</b> <i>I speak, I'm speaking</i>
-			tu parl<b>es</b> <i>you speak, you're speaking</i>
-			il/elle/on parl<b>e</b> <i>he/she/one speaks, is speaking</i>
-			nous parl<b>ons</b> <i>we speak, we're speaking</i>
-			vous parl<b>ez</b> <i>you speak, you're speaking</i>
-			ils/elles parl<b>ent</b> <i>they speak, they're speaking</i>
-		</para>
+		<table>
+		<tgroup cols="3">
+		<tbody>
+			<row><entry>je</entry><entry>parl<b>e</b></entry><entry><i>I speak, I'm speaking</i></entry></row>
+			<row><entry>tu</entry><entry>parl<b>es</b></entry><entry><i>you speak, you're speaking</i></entry></row>
+			<row><entry>il/elle/on</entry><entry>parl<b>e</b></entry><entry><i>he/she/one speaks, is speaking</i></entry></row>
+			<row><entry>nous</entry><entry>parl<b>ons</b></entry><entry><i>we speak, we're speaking</i></entry></row>
+			<row><entry>vous</entry><entry>parl<b>ez</b></entry><entry><i>you speak, you're speaking</i></entry></row>
+			<row><entry>ils/elles</entry><entry>parl<b>ent</b></entry><entry><i>they speak, they're speaking</i></entry></row>
+		</tbody>
+		</tgroup>
+		</table>
 		<itemizedlist spacing="compact">
 			<listitem><para>The present tense in French makes no distinction between <i>I speak</i> and <i>I'm speaking</i>.</para></listitem>
 			<listitem><para>Before a vowel or <b>h</b>, <b>je</b> becomes <b>j'</b>: <b>j'habite</b> <i>I live</i>.</para></listitem>
@@ -171,5 +174,73 @@
 			Pratiquez! Practise! Can you work out the present tense of <b>travailler</b>? Write it down and read it aloud.
 			Remember the pronunciation tips above.
 		</para>
+		</section>
+		<section><title>TWO IMPORTANT VERBS: AVOIR TO HAVE; ÊTRE TO BE</title>
+		<para><b>Avoir</b> and <b>être</b> are irregular, i.e. they do not follow the normal pattern. They are the two
+		most common verbs in French and need to be learnt individually:</para>
+		<table>
+		<tgroup cols="4">
+		<tbody>
+			<row><entry><b>j'ai</b></entry><entry><i>I have</i></entry><entry><b>je suis</b></entry><entry><i>I am</i></entry></row>
+			<row><entry><b>tu as</b></entry><entry><i>you have</i></entry><entry><b>tu es</b></entry><entry><i>you are</i></entry></row>
+			<row><entry><b>il/elle/on_a</b></entry><entry><i>he/she/one has</i></entry><entry><b>il/elle/on_est</b></entry><entry><i>he/she/one is</i></entry></row>
+			<row><entry><b>nous_avons</b></entry><entry><i>we have</i></entry><entry><b>nous sommes</b></entry><entry><i>we are</i></entry></row>
+			<row><entry><b>vous_avez</b></entry><entry><i>you have</i></entry><entry><b>vous_êtes</b></entry><entry><i>you are</i></entry></row>
+			<row><entry><b>ils/elles_ont</b></entry><entry><i>they have</i></entry><entry><b>ils/elles sont</b></entry><entry><i>they are</i></entry></row>
+		</tbody>
+		</tgroup>
+		</table>
+		<para>
+		Pratiquez! Practise! Practise the verbs <b>avoir</b> and <b>être</b> in sentences using some of the key words you already know. Remember that
+		for a question, you need to raise the voice on the last syllable. For example:</para>
+		<para>J'<b>ai</b> un_enfant. Je <b>suis</b> marié.</para>
+		<para>Tu <b>as</b> des_enfants? Tu <b>es</b>_anglaise?</para>
+		<para>Il <b>a</b> trois frères. Elle <b>est</b> professeure.</para>
+		<para>Nous_<b>avons</b> ...</para>
+		</section>
+		<section><title>THE NEGATIVE FORM: NE ... PAS</title>
+		<para>To say something is not so in French, you put <b>ne ... pas</b> round the verb.</para>
+		<para>Je <b>ne</b> comprends <b>pas</b>. <i>I don't understand.</i></para>
+		<para><b>Ne</b> becomes <b>n'</b> if the following verb starts with a vowel or <b>h</b>.</para>
+		<para>Je <b>n'</b>habite <b>pas</b> Paris. <i>I don't live in Paris.</i></para>
+		<para>After a negative form, <b>du, de la ...</b> becomes <b>de</b>:</para>
+		<para>Je <b>n'</b>ai <b>pas de</b> vin. <i>I don't have any wine.</i></para>
+		<para>but</para>
+		<para>J'ai <b>du</b> vin. <i>I have some wine.</i></para>
+		<note>
+		<para>Today <b>ne</b> is often omitted in French conversations: <b>Je parle pas anglais.</b></para>
+		</note>
+		</section>
+		<section><title>ADJECTIVES: HOW THEY AGREE</title>
+		<para>To describe things in detail or talk about yourself you need to add descriptive words
+		(called adjectives) to nouns; an adjective describing a masculine noun has a masculine form,
+		and one describing a feminine noun has a feminine form. As a general rule, feminine adjectives
+		end in <b>-e</b> and the plural adjectives take an <b>-s</b>, but it is not pronounced:</para>
+		<para>J'ai un_ami américain. <i>I have an American friend.</i></para>
+		<para>J'ai un<b>e</b> amie am<b>é</b>ricain<b>e</b>. <i>I have an American friend.</i></para>
+		<para>Me<b>s</b>_ami<b>s</b> sont_américain<b>s</b>. <i>My friends are American.</i></para>
+		</section>
+		<section><title>CAPITAL LETTERS</title>
+		<para>In French, adjectives of nationality and names of languages are not written with a capital
+		letter (unless they start a sentence):</para>
+		<para>Vous parlez <b>f</b>rançais? <i>Do you speak French?</i></para>
+		<para>Je suis <b>c</b>anadien. <i>I am Canadian.</i></para>
+		<para>but: un(e) <b>A</b>nglais(e) <i>an Englishman/woman</i></para>
+		<para>un(e) <b>A</b>méricain(e) <i>an American</i></para>
+		<para>un(e) <b>Français(e)</b> <i>a Frenchman/woman</i></para>
+		</section>
+		<section><title>QUEL EST VOTRE NOM? WHAT'S YOUR NAME?</title>
+		<para><b>Quel</b>, meaning <i>what</i> or <i>which</i>, is a useful word to remember; it is
+		always pronounced 'kel' but it is spelt differently to agree with the noun to which it refers:</para>
+		<para>Quel est votre nom? <i>What's your name?</i> (<b>Nom</b> is a masculine noun.)</para>
+		<para>Que<b>lle</b>. est votre <b>adresse</b>? <i>What's your address?</i> (<b>Adresse</b> is a feminine noun.)</para>
+		<para>Que<b>ls vins</b>? <i>Which wines?</i> (<b>Vins</b> is a masculine plural noun.)</para>
+		<para>Que<b>lles bouteilles</b>? <i>Which bottles?</i> (<b>Bouteilles</b> is a feminine plural noun.)</para>
+		</section>
+		<section><title>SAYING HOW OLD YOU ARE</title>
+		<para>Start with <b>j'ai</b> (not <b>je suis</b>), add your age followed by <b>ans</b> (<i>years</i>):</para>
+		<para><b>Vous_avez quel âge?</b> <i>How old are you?</i></para>
+		<para><b>J'ai dix-sept ans.</b> <i>I am 17.</i></para>
+		</section>
 	</section>
 </chapter>
