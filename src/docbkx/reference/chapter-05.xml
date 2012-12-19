@@ -23,9 +23,7 @@
 	</section>
 	
 	<section><title>Key words and phrases</title>
-	<table>
-	<tgroup cols="2">
-	<tbody>
+	<table><tgroup cols="2"><tbody>
 		<row><entry><b>à quelle heure ...</b></entry><entry><i>at what time ...</i></entry></row>
 		<row><entry><b>*quand est-ce que l'avion part?</b></entry><entry><i>when does the aircraft leave?</i></entry></row>
 		<row><entry><b>*quand est-ce que le bus arrive?</b></entry><entry><i>when does the bus arrive?</i></entry></row>
@@ -56,9 +54,7 @@
 		<row><entry><b>aujourd'hui</b></entry><entry><i>today</i></entry></row>
 		<row><entry><b>demain</b></entry><entry><i>tomorrow</i></entry></row>
 		<row><entry><b>maintenant</b></entry><entry><i>now</i></entry></row>
-	</tbody>
-	</tgroup>
-	</table>
+	</tbody></tgroup></table>
 	<note>
 	<para>As you have already learnt in Unit 4 (???), you can make the same questions easier by placing
 	the question word afterwards:</para>

@@ -1,0 +1,59 @@
+﻿<chapter xmlns="http://docbook.org/ns/docbook">
+	<title>Pour aller à ...?</title>
+	<subtitle>The way to ...?</subtitle>
+		<abstract><para>
+		In this unit you will learn
+		<itemizedlist spacing="compact">
+			<listitem><para><b>How to count from 90 upwards</b></para></listitem>
+			<listitem><para><b>How to ask for and understand directions</b></para></listitem>
+			<listitem><para><b>Useful verbs to describe what you do every day</b></para></listitem>
+		</itemizedlist>
+	</para></abstract>
+	<section><title>Before you start</title>
+	<para>In <b>Key words and phrases</b>, Unit 4, you learnt to say how far somewhere is and how long
+	it takes to go somewhere on foot and by train. Revise these structures as you will need them to
+	understand the dialogue in this unit.</para>
+	<para>You now know how to ask where things are: <b>Où est ...?</b> or <b>C'est où ...?</b> Asking the way is also
+	very simple; you start your question with the phrase <b>pour aller à</b> and raise the voice at the end
+	of the statement.</para>
+	<para>Understanding the answer can be more tricky and you'll need to pick out the few essential
+	words such as <b>tout droit</b>, <b>à gauche</b>, <b>à droite</b> out of the flow of other words.</para>
+	<para>As people give you directions, repeat after them, to make sure you have understood. If you do
+	not understand, ask them to repeat or slow down.</para>
+	</section>
+	
+	<section><title>Key words and phrases</title>
+	<table><tgroup cols="2"><tbody>
+		<row><entry><b>pour_aller à ...</b></entry><entry><i>the way to ...</i></entry></row>
+		<row><entry><b>(vous) allez tout droit</b></entry><entry><i>(you) go straight on</i></entry></row>
+		<row><entry><b>continuez</b></entry><entry><i>carry on</i></entry></row>
+		<row><entry><b>descendez la rue</b></entry><entry><i>go down the street</i></entry></row>
+		<row><entry><b>montez l'avenue</b></entry><entry><i>go up the avenue</i></entry></row>
+		<row><entry><b>passez le magasin</b></entry><entry><i>go beyond the shop</i></entry></row>
+		<row><entry><b>traversez la place</b></entry><entry><i>cross the square</i></entry></row>
+		<row><entry><b>prenez la route de ...</b></entry><entry><i>take the road to ...</i></entry></row>
+
+		<row><entry><b>(vous) tournez à gauche</b></entry><entry><i>(you) turn left</i></entry></row>
+		<row><entry><b>tournez à droite</b></entry><entry><i>turn right</i></entry></row>
+		<row><entry><b>vous_allez prendre ...</b></entry><entry><i>you're going to take ...</i></entry></row>
+		<row><entry><b>la première rue à droite</b></entry><entry><i>the first street on the right</i></entry></row>
+		<row><entry><b>la deuxième sur votre gauche</b></entry><entry><i>the second on your left</i></entry></row>
+		
+		<row><entry><b>la place du marché est située ...</b></entry><entry><i>the market place is ...</i></entry></row>
+		<row><entry><b>au coin de la rue</b></entry><entry><i>at the corner of the street</i></entry></row>
+		<row><entry><b>à côté du supermarché</b></entry><entry><i>next to the supermarket</i></entry></row>
+		<row><entry><b>en face de la boulangerie</b></entry><entry><i>opposite the baker's</i></entry></row>
+		<row><entry><b>au centre ville</b></entry><entry><i>in the town centre</i></entry></row>
+		<row><entry><b>sur votre gauche</b></entry><entry><i>on your left</i></entry></row>
+		<row><entry><b>sur, sous</b></entry><entry><i>on, under</i></entry></row>
+		<row><entry><b>devant, derrière</b></entry><entry><i>in front of, behind</i></entry></row>
+		<row><entry><b>dans</b></entry><entry><i>in, inside</i></entry></row>
+		<row><entry><b>entre</b></entry><entry><i>between</i></entry></row>
+		<row><entry><b>il faut combien de temps?</b></entry><entry><i>how long does it take?</i></entry></row>
+		<row><entry><b>il faut environ 25 minutes</b></entry><entry><i>you need about 25 minutes</i></entry></row>
+
+
+		
+	</tbody></tgroup></table>
+	</section>
+</chapter>
