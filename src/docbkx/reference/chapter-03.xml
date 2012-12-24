@@ -27,7 +27,7 @@
 			the bus, the bath. Aim at saying them without thinking.
 		</para>
 		<para>
-			<i>Essayez!</i> <b>Have a go!</b> You've just arrived in France. You stop at <b>une alimentation</b>
+			Essayez! Have a go! You've just arrived in France. You stop at <b>une alimentation</b>
 			to buy something to drink. How would you ask for two bottles of beer and one kilo of oranges?
 			<b>Je ...</b>
 		</para>
@@ -81,28 +81,23 @@
 		
 		<section>
 			<title>NUMBERS 11-20</title>
-			<para>
-				11 onze
-				12 douze
-				13 treize
-				14 quatorze
-				15 quinze
-				16 seize
-				17 dix-sept
-				18 dix-huit
-				19 dix-neuf
-				20 vingt (pronounce as French vin)
-			</para>
+			<table><tgroup cols="2"><tbody>
+			<row><entry><b>onze</b> 11</entry><entry><b>seize</b> 16</entry></row>
+			<row><entry><b>douze</b> 12</entry><entry><b>dix-sept</b> 17</entry></row>
+			<row><entry><b>treize</b> 13</entry><entry><b>dix-huit</b> 18</entry></row>
+			<row><entry><b>quatorze</b> 14</entry><entry><b>dix-neuf</b> 19</entry></row>
+			<row><entry><b>quinze</b> 15</entry><entry><b>vings (pronounced as French <b>vin</b></b> 20</entry></row>
+			</tbody></tgroup></table>
 		</section>
 	</section>
 	
 	<section>
 		<title>Dialogue</title>
 		<para>
-			<i>Jane is sitting on the terrace of a café reading an English magazine.
+			Jane is sitting on the terrace of a café reading an English magazine.
 			A Frenchwoman has struck up a conversation with her. Listen to
 			the recording or read the dialogue below. Does the Frenchwoman work?
-			Has she got any children? Is Jane married?</i>
+			Has she got any children? Is Jane married?
 		</para>
 		<itemizedlist spacing="compact">
 			<listitem><para>Frenchwoman : Vous_êtes_anglaise ?</para></listitem>
@@ -233,7 +228,7 @@
 		<para><b>Quel</b>, meaning <i>what</i> or <i>which</i>, is a useful word to remember; it is
 		always pronounced 'kel' but it is spelt differently to agree with the noun to which it refers:</para>
 		<para>Quel est votre nom? <i>What's your name?</i> (<b>Nom</b> is a masculine noun.)</para>
-		<para>Que<b>lle</b>. est votre <b>adresse</b>? <i>What's your address?</i> (<b>Adresse</b> is a feminine noun.)</para>
+		<para>Que<b>lle</b> est votre <b>adresse</b>? <i>What's your address?</i> (<b>Adresse</b> is a feminine noun.)</para>
 		<para>Que<b>ls vins</b>? <i>Which wines?</i> (<b>Vins</b> is a masculine plural noun.)</para>
 		<para>Que<b>lles bouteilles</b>? <i>Which bottles?</i> (<b>Bouteilles</b> is a feminine plural noun.)</para>
 		</section>
@@ -242,5 +237,13 @@
 		<para><b>Vous_avez quel âge?</b> <i>How old are you?</i></para>
 		<para><b>J'ai dix-sept ans.</b> <i>I am 17.</i></para>
 		</section>
+	</section>
+	
+	<section><title>Activities</title>
+	<para>You are being very negative and answer <b>non ...</b> to all the following questions using
+	<b>ne ... pas</b>:</para>
+	<itemizedlist spacing="compact">
+	<listitem><para>Vous_avez des timbres? Non, je <a>ne'ai pas des timbres</a>.</para></listitem>
+	</itemizedlist>
 	</section>
 </chapter>

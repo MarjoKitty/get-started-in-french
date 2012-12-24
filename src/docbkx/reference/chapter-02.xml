@@ -4,10 +4,10 @@
 	<abstract>
 		<para>In this unit you will learn how to
 		<itemizedlist spacing="compact">
-			<listitem><para>Count up to ten</para></listitem>
-			<listitem><para>Ask for something</para></listitem>
-			<listitem><para>Say how much you want</para></listitem>
-			<listitem><para>Ask the price</para></listitem>
+			<listitem><para><b>Count up to ten</b></para></listitem>
+			<listitem><para><b>Ask for something</b></para></listitem>
+			<listitem><para><b>Say how much you want</b></para></listitem>
+			<listitem><para><b>Ask the price</b></para></listitem>
 		</itemizedlist>
 		</para>
 	</abstract>
@@ -17,11 +17,11 @@
 
 		<para>
 			In this unit we will show you that it is nearly always possible	to ask for what	you want
-			with just two words, <b>je voudrais</b> (<i>I would like</i>) and <b>s'il vous plait</b>
+			with just two words, <b>je voudrais</b> (<i>I would like</i>) and <b>s'il vous plaît</b>
 			at the end.
 		</para>
 		<para>
-			<i>Essayez!</i>	Have a go! You are in a <b>patisserie</b> (<i>cake shop</i>) in France to buy a
+			Essayez! Have a go! You are in a <b>pâtisserie</b> (<i>cake shop</i>) in France to buy a
 			<b>baguette</b> (<i>French stick</i>). How would you greet the woman behind the counter? How would you
 			ask for a French stick?
 		</para>
@@ -29,13 +29,11 @@
 
 	<section>
 		<title>Key words and phrases</title>
-		<table>
-			<tgroup cols="2">
-				<tbody>
-					<row><entry>un café</entry><entry>a coffee/a café</entry></row>
-					<row><entry>un thé</entry><entry>a tea</entry></row>
-					<row><entry>un coca-cola</entry><entry>a coca-cola</entry></row>
-					<row><entry>un_euro</entry><entry>a euro</entry></row>
+		<table><tgroup cols="2"><tbody>
+					<row><entry><b>un café</b></entry><entry>a coffee/a café</entry></row>
+					<row><entry><b>un thé</b></entry><entry>a tea</entry></row>
+					<row><entry><b>un coca-cola</b></entry><entry>a coca-cola</entry></row>
+					<row><entry><b>un_euro</b></entry><entry>a euro</entry></row>
 					<row><entry>un journal</entry><entry>a newspaper</entry></row>
 					<row><entry>un plan</entry><entry>a map, plan</entry></row>
 					<row><entry>une baguette</entry><entry>a French stick</entry></row>
@@ -76,27 +74,21 @@
 
 		<section>
 			<title>NUMBERS 1-10</title>
-			<para>
-				1 un
-				2 deux
-				3 trois
-				4 quatre
-				5 cinq
-				6 six
-				7 sept (the p is not
-				pronounced)
-				8 huit
-				9 neuf
-				10 dix
-			</para>
+		<table><tgroup cols="2"><tbody>
+			<row><entry><b>un</b> 1</entry><entry><b>six</b> 6</entry></row>
+			<row><entry><b>deux</b> 2</entry><entry><b>sept</b> 7</entry></row>
+			<row><entry><b>trois</b> 3</entry><entry><b>huit</b> 8</entry></row>
+			<row><entry><b>quatre</b> 4</entry><entry><b>neuf</b> 9</entry></row>
+			<row><entry><b>cinq</b> 5</entry><entry><b>dix</b> 10</entry></row>
+		</tbody></tgroup></table>
 		</section>
 	</section>
 	<section>
 		<title>Dialogue</title>
 		<para>
-			<i>Jane is in <b>une alimentation</b> (grocer's shop). What does she want to buy? Does
+			Jane is in <b>une alimentation</b> (<i>grocer's shop</i>). What does she want to buy? Does
 			she get what she wants? Listen to the recording first, answer the questions, then check
-			your answers.</i>
+			your answers.
 		</para>
 		<itemizedlist spacing="compact">
 			<listitem><para>Jane : Vous_avez de la bière?</para></listitem>

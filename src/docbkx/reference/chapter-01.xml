@@ -3,7 +3,7 @@
 	<subtitle>Hello</subtitle>
 	<abstract>
 		<para>In this unit you will learn how to
-		<itemizedlist>
+		<itemizedlist spacing="compact">
 			<listitem><para><b>Say 'hello' and 'goodbye'</b></para></listitem>
 			<listitem><para><b>Exchange greetings</b></para></listitem>
 			<listitem><para><b>Observe basic courtesies</b></para></listitem>
@@ -23,38 +23,36 @@
 			and <b>Dialogues</b> sections. If you don't have the recording, use the <b>Pronunciation guide</b> in the book.
 		</para>
 	</section>
+	
+	<section><title>Study tips</title><para>TODO</para>
+	</section>
 
-	<section>
-		<title>Key words and phrases</title>
-		<table>
-			<tgroup cols="2">
-				<tbody>
-					<row><entry>bonjour</entry><entry>good morning/afternoon, hello</entry></row>
-					<row><entry>bonsoir</entry><entry>good evening (after 5.00 p.m.)</entry></row>
-					<row><entry>bonne nuit</entry><entry>good night (when going to bed)</entry></row>
-					<row><entry>au revoir</entry><entry>goodbye</entry></row>
-					<row><entry>bonjour, Madame</entry><entry>good morning (Madam)</entry></row>
-					<row><entry>bonjour, Mademoiselle</entry><entry>good morning (Miss)</entry></row>
-					<row><entry>bonsoir, Monsieur</entry><entry>good evening (Sir)</entry></row>
-					<row><entry>au revoir, Messieurs-dames</entry><entry>goodbye ladies and gentlemen</entry></row>
-					<row><entry>oui</entry><entry>yes</entry></row>
-					<row><entry>non, merci</entry><entry>no, thank you</entry></row>
-					<row><entry>merci</entry><entry>thank you</entry></row>
-					<row><entry>merci beaucoup</entry><entry>thank you very much</entry></row>
-					<row><entry>s'il vous plait</entry><entry>please</entry></row>
-					<row><entry>d'accord</entry><entry>OK</entry></row>
-					<row><entry>pardon</entry><entry>sorry (to apologize), excuse me</entry></row>
-					<row><entry>comment ca va? ca va (informal)</entry><entry>how are things? fine</entry></row>
-					<row><entry>(tres) bien merci</entry><entry>(very) well thank you</entry></row>
-					<row><entry><b>comment vas-tu?</b></entry><entry>how are you?</entry></row>
-					<row><entry>comment_allez-vous? (formal)</entry><entry>how are you?</entry></row>
-					<row><entry>je vais bien et toi?</entry><entry>I am well - how about you?</entry></row>
-					<row><entry>et vous? (formal)</entry><entry>and you?</entry></row>
-					<row><entry>vous parlez_anglais?</entry><entry>do you speak English?</entry></row>
-					<row><entry>parlez plus lentement</entry><entry>speak more slowly</entry></row>
-				</tbody>
-			</tgroup>
-		</table>
+	<section><title>Key words and phrases</title>
+		<table><tgroup cols="2"><tbody>
+			<row><entry><b>bonjour</b></entry><entry>good morning/afternoon, hello</entry></row>
+			<row><entry><b>bonsoir</b></entry><entry>good evening (after 5.00 p.m.)</entry></row>
+			<row><entry><b>bonne nuit</b></entry><entry>good night (when going to bed)</entry></row>
+			<row><entry><b>au revoir</b></entry><entry>goodbye</entry></row>
+			<row><entry><b>bonjour, Madame</b></entry><entry>good morning (Madam)</entry></row>
+			<row><entry><b>bonjour, Mademoiselle</b></entry><entry>good morning (Miss)</entry></row>
+			<row><entry><b>bonsoir, Monsieur</b></entry><entry>good evening (Sir)</entry></row>
+			<row><entry><b>au revoir, Messieurs-dames</b></entry><entry>goodbye ladies and gentlemen</entry></row>
+			<row><entry><b>oui</b></entry><entry>yes</entry></row>
+			<row><entry><b>non, merci</b></entry><entry>no, thank you</entry></row>
+			<row><entry><b>merci</b></entry><entry>thank you</entry></row>
+			<row><entry><b>merci beaucoup</b></entry><entry>thank you very much</entry></row>
+			<row><entry><b>s'il vous plaît</b></entry><entry>please</entry></row>
+			<row><entry><b>d'accord</b></entry><entry>OK</entry></row>
+			<row><entry><b>pardon</b></entry><entry>sorry (to apologize), excuse me</entry></row>
+			<row><entry><b>comment ça va? ça va</b> (informal)</entry><entry>how are things? fine</entry></row>
+			<row><entry><b>(très) bien merci</b></entry><entry>(very) well thank you</entry></row>
+			<row><entry><b>comment vas-tu?</b></entry><entry>how are you?</entry></row>
+			<row><entry><b>comment_allez-vous?</b> (formal)</entry><entry>how are you?</entry></row>
+			<row><entry><b>je vais bien et toi?</b></entry><entry>I am well - how about you?</entry></row>
+			<row><entry><b>et vous?</b> (formal)</entry><entry>and you?</entry></row>
+			<row><entry><b>vous parlez_anglais?</b></entry><entry>do you speak English?</entry></row>
+			<row><entry><b>parlez plus lentement</b></entry><entry>speak more slowly</entry></row>
+		</tbody></tgroup></table>
 
 		<note>
 			<para>
@@ -64,24 +62,88 @@
 		</note>
 	</section>
 	
-	<section>
-		<title>Dialogues</title>
+	<section><title>Dialogues</title>
 		<para>Listen to the recording and hear people practicing saying 'hello' and greeting each other in French.</para>
 		<para>Press the pause button after each sentence and repeat aloud.</para>
+
+		<note><para>
+			Pay particular attention to the way the 's' in <b>Messieurs</b> and <b>Monsieur</b> is pronounced.
+			It should sound as in <i>pass</i> and not as in <i>shop</i>.
+		</para></note>
+		
+		<section><title>DIALOGUE 1 SAYING 'HELLO'</title>
+		<itemizedlist spacing="compact">
+		<listitem><para>Jane : Bonjour, Messieurs-dames.</para></listitem>
+		</itemizedlist>
+
+
+		<itemizedlist spacing="compact">
+		<listitem><para>Michel : Bonjour, Mademoiselle.</para></listitem>
+		<listitem><para>Jane : Bonjour, Monsieur</para></listitem>
+		</itemizedlist>
+
+		<itemizedlist spacing="compact">
+		<listitem><para>Roger : Bonsoir, Madame.</para></listitem>
+		<listitem><para>Nathalie : Bonsoir, Monsieur</para></listitem>
+		</itemizedlist>
+
+		<itemizedlist spacing="compact">
+		<listitem><para>Roger : Comment ça va, Jane?</para></listitem>
+		<listitem><para>Jane : Très bien et toi?</para></listitem>
+		<listitem><para>Roger : <b>Moi aussi</b>, ça va bien.</para></listitem>
+		</itemizedlist>
+
+		<itemizedlist spacing="compact">
+		<listitem><para>Rosine : Comment vas-tu?</para></listitem>
+		<listitem><para>Jane : Je vais très bien Rosine, et toi?</para></listitem>
+		</itemizedlist>
+
+		<itemizedlist spacing="compact">
+		<listitem><para>Mme Dubois : Comment_allez-vous, Monsieur Dubosse?</para></listitem>
+		<listitem><para>M. Dubosse : Très bien merci, et vous?</para></listitem>
+		<listitem><para>Mme Dubois : Très bien.</para></listitem>
+		</itemizedlist>
+		</section>
+		<section><title>DIALOGUE 2 SAYING 'GOODBYE'</title>
+		<itemizedlist spacing="compact">
+		<listitem><para>Michel : Au revoir, Madame et ... merci beaucoup.</para></listitem>
+		<listitem><para>Nathalie : Au revoir, Monsieur.</para></listitem>
+		</itemizedlist>
+		</section>
+		
+		<section><title>DIALOGUE 3 WHEN THINGS GET DIFFICULT ...</title>
+		<itemizedlist spacing="compact">
+		<listitem><para>Jane : Pardon, Monsieur, vous parlez_anglais?</para></listitem>
+		<listitem><para>Garçon : Ah, non, <b>je regrette</b> ...</para></listitem>
+		<listitem><para>Garçon : Bonjour, Madame. <b>Qu'est-ce que vous désirez?</b></para></listitem>
+		<listitem><para>Nathalie : Parlez plus lentement, s'il vous plaît.</para></listitem>
+		<listitem><para>Garçon : D'accord ... Qu'est-ce que vous désirez?</para></listitem>
+		</itemizedlist>
+		</section>
+		
 		<note>
-			<para>Pay particular attention to the way the 's' in Messieurs and Monsieur is pronounced. It should sound as in pass and not as in shop.</para>
+		<para><b>moi</b> me, I</para>
+		<para><b>aussi</b> also, too</para>
+		<para><b>garçon</b> waiter</para>
+		<para><b>je regrette</b> I'm sorry</para>
+		<para><b>Qu'est-ce que vous désirez?</b> (lit.) What do you wish? but used in shops it means <i>Can I help you?</i></para>
 		</note>
-		<table>
-			<title>SAYING 'HELLO'</title>
-			<tgroup cols="2">
-				<tbody>
-					<row><entry>Jane</entry><entry>Bonjour, Messieurs-dames.</entry></row>
-					<row><entry>Michel</entry><entry>Bonjour, Mademoiselle.</entry></row>
-					<row><entry>Jane</entry><entry>Bonjour, Monsieur</entry></row>
-				</tbody>
-			</tgroup>
-		</table>
-	</section>
+		
+		<section><title>HOW TO PRONOUNCE ...</title>
+		<itemizedlist spacing="compact">
+		<listitem><para>As a general rule don't pronounce <b>d g p s t x z</b> at the end of a word,
+		e.g. beaucou<b>p</b> vou<b>s</b> nui<b>t</b> plaî<b>t</b>.</para></listitem>
+		<listitem><para>The letter <b>e</b> often gets swallowed as in <b>mad'moiselle</b>.</para></listitem>
+		<listitem><para>The stress, in French, is on the last part of the word: par-d<b>on</b> mer-<b>ci</b>
+		mad'-moi-<b>selle</b> mon-<b>sieur</b>.</para></listitem>
+		<listitem><para><b>ç</b> placed before <b>o, u, a</b> is pronounced as <b>s</b> as in <i>sit</i>:
+		gar<b>ç</b>on, <b>ç</b>a va?</para></listitem>
+		<listitem><para>The <b>s</b> in <b>monsieur</b> is pronounced as <b>ss</b> in <i>pass</i>.</para></listitem>
+		</itemizedlist>
+		
+		</section>
+
+	</section> <!-- Dialogues -->
 
 	<section>
 		<title>Grammar</title>
@@ -97,12 +159,12 @@
 		</section>
 		<section><title>CALLING THE WAITER'S ATTENTION</title>
 		<para>
-			Although garcon is the word for waiter, today you would usually say Monsieur to attract
-			his attention. For a waitress, you say Madame or Mademoiselle as you think fir or just look
-			expectant and say s'il vous plait.
+			Although <b>garçon</b> is the word for waiter, today you would usually say <b>Monsieur</b> to attract
+			his attention. For a waitress, you say <b>Madame</b> or <b>Mademoiselle</b> as you think fir or just look
+			expectant and say <b>s'il vous plaît</b>.
 		</para>
 		<note>
-			<para>Don't forget to shorten Mademoiselle to Mad'moiselle to make it sound more French!</para>
+			<para>Don't forget to shorten <b>Mademoiselle</b> to <b>Mad'moiselle</b> to make it sound more French!</para>
 		</note>
 		</section>
 		<section><title>HOW TO BE COURTEOUS</title>
