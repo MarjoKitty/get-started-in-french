@@ -231,11 +231,27 @@
 	<para>Now it's your turn to practise giving directions. Use the text above as a model but you don't
 	have to answer exactly like it; for example instead of <b>vous montez/descendez la rue</b> you can say
 	<b>(vous) allez/continuez tout droit</b>. Here are the questions:</para>
-	<orderedlist numeration="loweralpha">
+	<orderedlist numeration="loweralpha" spacing="compact">
 	<listitem><para>Pardon Monsieur, pour_aller à la piscine?</para></listitem>
 	<listitem><para>S'il vous plaît Madame, je voudrais aller au musée; pouvez-vous me dire où il se trouve?</para></listitem>
 	<listitem><para>Pardon Monsieur, savez-vous où est l'office du tourisme?</para></listitem>
 	<listitem><para>Pardon Mademoiselle, je ne suis pas d'ici ... euh, il y a un centre commercial à Chatou?</para></listitem>
 	</orderedlist>
+	
+	<para>Look at the <b>centre commercial de Chatou</b> and fill in the blanks using the words from
+	the list below.</para>
+	<orderedlist numeration="loweralpha" spacing="compact">
+	<listitem><para>La poste est <b>en face du</b> café.</para></listitem>
+	<listitem><para>La café est <b>à côté de la</b> pâtisserie.</para></listitem>
+	<listitem><para>L'office du tourisme est <b>au coin de</b> la place François 1er.</para></listitem>
+	<listitem><para>La pharmacie est <b>entre</b> la poste et la banque.</para></listitem>
+	<listitem><para>L'église est <b>au bout de</b> la rue Thiers.</para></listitem>
+	<listitem><para>Les <b>grands magasins</b> sont en face du supermarché.</para></listitem>
+	<listitem><para>Le <b>bar</b> est à côté de l'hôtel.</para></listitem>
+	<listitem><para>La <b>pâtisserie</b> est entre le café et l'office du tourisme.</para></listitem>
+	<listitem><para>La pharmacie est <b>dans la rue</b> Thiers.</para></listitem>
+	<listitem><para>Le supermarché est <b>sur la place</b> François 1er.</para></listitem>
+	</orderedlist>
+
 	</section>
 </chapter>
