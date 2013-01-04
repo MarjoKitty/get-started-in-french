@@ -150,7 +150,7 @@
    ################################################### -->
 
     <!-- The table width should be adapted to the paper size -->
-    <xsl:param name="default.table.width">17.4cm</xsl:param>
+    <xsl:param name="default.table.width">18.0cm</xsl:param>
 
     <!-- Some padding inside tables -->
     <xsl:attribute-set name="table.cell.padding">
@@ -161,6 +161,8 @@
     </xsl:attribute-set>
 
     <!-- Only hairlines as frame and cell borders in tables -->
+	<!--<xsl:param name="table.frame.border.color">red</xsl:param> -->
+	<!--<xsl:param name="table.cell.border.style">none</xsl:param> -->
     <xsl:param name="table.frame.border.thickness">0.1pt</xsl:param>
     <xsl:param name="table.cell.border.thickness">0.1pt</xsl:param>
 
