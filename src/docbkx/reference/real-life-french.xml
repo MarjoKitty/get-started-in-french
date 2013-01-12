@@ -1,6 +1,6 @@
 ﻿<chapter xmlns="http://docbook.org/ns/docbook">
 	<title>Real-Life French</title>
-	<section><title>Letter: Cours de français en groupe</title>
+	<section><title>Lettre: Cours de français en groupe</title>
 	<para>Conformément à l'article L. 6321-6 du code du travail, vous allez <b>suivre</b> <b>une formation</b> ayant pour
 	objet le développement de vos compétences <b>dans le cadre du</b> plan de formation. Cette action <b>se
 	déroule</b> du 1er septembre au 31 decembre 2011 et porte sur des "Cours de français en groupe"
@@ -23,5 +23,44 @@
 	<para><b>s'engager à faire</b> to undertake to do</para>
 	<para><b>en dehors de</b> apart from</para>
 	</note>
+	</section>
+	
+	<section><title>Contrat de travail</title>
+	<para>Monsieur,
+	Nous sommes heureux de vous confirmer ci-après les conditions de votre engagement au service de notre
+	Enterprise par la présente lettre valant contrat de travail dès votre acceptation de ses termes.
+	Cette proposition est à nous retourner signée au plus tard sous quinze jours. Passé ce délai elle sera consideree
+	comme <b>caduque</b>.</para>
+	<para>Cet engagement est fait:
+	<itemizedlist>
+	<listitem><para>aux conditions générales de la Convention Collective Nationale applicable au personnel des Bureaux
+	d'Etudes Techniques, des Cabinets d'Ingénieurs-Conseils et des Sociétés de Conseils, (convention " SYNTEC ")</para></listitem>
+	<listitem><para>aux conditions fixées par les accords collectifs, notes de service, usages et le règlement intérieur
+	en vigueur au sein de notre entreprise.</para></listitem>
+	</itemizedlist>
+	</para>
+	
+	<para>ARTICLE 1 - NATURE DU CONTRAT - ENTREE EN VIGUEUR</para>
+	<para>Le présent contrat est conclu pour une durée indéterminée.</para>
+	<para>Il débutera le : 11 juillet 2011, sous réserve de la présentation d'une pièce d'identité en cours de validité.</para>
+	
+	<para>ARTICLE 3 - REMUNERATION</para>
+	<para>Votre rémunération brute annuelle sera de XX XXX Euros.</para>
+	<para>Elle est composée:
+	<itemizedlist>
+	<listitem><para>d'un salaire de base mensuel brut de X XXX,XX Euros,</para></listitem>
+	<listitem><para>d'une prime de vacances versée avec la paie du mois de juin et d'une prime de fin
+	d'année versée avec la paie de décembre. Le montant de chacune de ces primes est égal à la moitié du traitement
+	de base mensuel de juin et de décembre. En cas d'arrivée ou de départ en cours d'année, elle est
+	calculée au prorata du temps de présence.</para></listitem>
+	</itemizedlist>
+	</para>
+	<para>La prime de vacances ou de fin d'annee n'est pas due en cas de depart au cours de la periode d'essai.</para>
+	<para>A l'issue de votre période d'essai concluante, vous bénéficierez d'une prime brute de X XXX Euros sous
+	réserve d'évaluation de vos résultats par votre manager.</para>
+
+	<para>ARTICLE 4 - DUREE DU TRAVAIL</para>
+	<para>En ce qui concerne la durée du travail, vous relevez des dispositions particulières en vigueur dans l'entreprise ;
+	les modalités pratiques propres à votre situation font l'objet d'une note remise à votre entrée dans l'Entreprise.</para>
 	</section>
 </chapter>
