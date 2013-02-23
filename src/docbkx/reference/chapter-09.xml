@@ -12,5 +12,34 @@
 	</para></abstract>
 	<section><title>Before you start</title>
 	</section>
+	
+	<section><title>Key words and phrases</title>
+	<table colsep="0" rowsep="0"><tgroup cols="2">
+	<tbody>
+		<row><entry><b>pardon Monsieur, Madame ...</b></entry><entry><i>excuse me</i></entry></row>
+		<row><entry><b>je suis perdu</b></entry><entry><i>I'm lost</i></entry></row>
+		<row><entry><b>je ne sais pas ...</b></entry><entry><i>I don't know</i></entry></row>
+		<row><entry><b>je ne comprends pas ...</b></entry><entry><i>I don't understand</i></entry></row>
+		<row><entry><b>vous pouvez m'aider, s'il vous plaît?</b></entry><entry><i>can you help me please?</i></entry></row>
+		<row><entry><b>qu'est-ce qu'il faut faire?</b></entry><entry><i>what must I/we do?</i></entry></row>
+		<row><entry><b>la machine ne marche pas</b></entry><entry><i>the machine does not work</i></entry></row>
+		<row><entry><b>utiliser l'Internet</b></entry><entry><i>to use the Internet</i></entry></row>
+		<row><entry><b>excusez-moi de vous déranger</b></entry><entry><i>sorry to disturb you</i></entry></row>
+		<row><entry><b>d'abord</b></entry><entry><i>firstly</i></entry></row>
+		<row><entry><b>et puis</b></entry><entry><i>and then</i></entry></row>
+		<row><entry><b>après ça</b></entry><entry><i>after that</i></entry></row>
+		<row><entry><b>finalement</b></entry><entry><i>finally</i></entry></row>
+		<row><entry><b>il faut_introduire ...</b></entry><entry><i>you must insert</i></entry></row>
+		<row><entry><b>il faut vérifier le niveau d'huile</b></entry><entry><i>you have to check the oil level</i></entry></row>
+		<row><entry><b>vous devez composter le billet</b></entry><entry><i>you must data-stamp the ticket</i></entry></row>
+		<row><entry><b>je vais m'en_occuper</b></entry><entry><i>I'll attend to it</i></entry></row>
+		<row><entry><b>ne pas déranger</b></entry><entry><i>do not disturb</i></entry></row>
+		<row><entry><b>en dérangement/en panne</b></entry><entry><i>out of order (machine, telephone)</i></entry></row>
+		<row><entry><b>hors de service</b></entry><entry><i>out of order</i></entry></row>
+	</tbody>
+	</tgroup>
+	</table>
+
+	</section>
 
 </chapter>
