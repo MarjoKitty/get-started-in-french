@@ -88,61 +88,67 @@
 		</para></note>
 		
 		<section><title>DIALOGUE 1 SAYING 'HELLO'</title>
-		<itemizedlist spacing="compact">
-		<listitem><para>Jane : Bonjour, Messieurs-dames.</para></listitem>
-		</itemizedlist>
+	<table rowsep="0"><tgroup cols="2">
+		<colspec colwidth="*" colnum="1" />
+		<colspec colwidth="5*" colnum="2" />
+		<tbody>
+		<row><entry><b>Jane</b></entry><entry>Bonjour, Messieurs-dames.</entry></row>
+		
+		<row><entry><b>Michel</b></entry><entry>Bonjour, Mademoiselle.</entry></row>
+		<row><entry><b>Jane</b></entry><entry>Bonjour, Monsieur</entry></row>
+		
+		<row><entry><b>Roger</b></entry><entry>Bonsoir, Madame.</entry></row>
+		<row><entry><b>Nathalie</b></entry><entry>Bonsoir, Monsieur.</entry></row>
+		
+		<row><entry><b>Roger</b></entry><entry>Comment ça va, Jane?</entry></row>
+		<row><entry><b>Jane</b></entry><entry>Très bien et toi?</entry></row>
+		<row><entry><b>Roger</b></entry><entry><b>Moi aussi</b>, ça va bien.</entry></row>
+		
+		<row><entry><b>Rosine</b></entry><entry>Comment vas-tu?</entry></row>
+		<row><entry><b>Jane</b></entry><entry>Je vais très bien Rosine, et toi?</entry></row>
 
+		<row><entry><b>Mme Dubois</b></entry><entry>Comment_allez-vous, Monsieur Dubosse?</entry></row>
+		<row><entry><b>M. Dubosse</b></entry><entry>Très bien merci, et vous?</entry></row>
+		<row><entry><b>Mme Dubois</b></entry><entry>Très bien.</entry></row>
 
-		<itemizedlist spacing="compact">
-		<listitem><para>Michel : Bonjour, Mademoiselle.</para></listitem>
-		<listitem><para>Jane : Bonjour, Monsieur</para></listitem>
-		</itemizedlist>
+		
+		</tbody>
+	</tgroup></table>
 
-		<itemizedlist spacing="compact">
-		<listitem><para>Roger : Bonsoir, Madame.</para></listitem>
-		<listitem><para>Nathalie : Bonsoir, Monsieur</para></listitem>
-		</itemizedlist>
-
-		<itemizedlist spacing="compact">
-		<listitem><para>Roger : Comment ça va, Jane?</para></listitem>
-		<listitem><para>Jane : Très bien et toi?</para></listitem>
-		<listitem><para>Roger : <b>Moi aussi</b>, ça va bien.</para></listitem>
-		</itemizedlist>
-
-		<itemizedlist spacing="compact">
-		<listitem><para>Rosine : Comment vas-tu?</para></listitem>
-		<listitem><para>Jane : Je vais très bien Rosine, et toi?</para></listitem>
-		</itemizedlist>
-
-		<itemizedlist spacing="compact">
-		<listitem><para>Mme Dubois : Comment_allez-vous, Monsieur Dubosse?</para></listitem>
-		<listitem><para>M. Dubosse : Très bien merci, et vous?</para></listitem>
-		<listitem><para>Mme Dubois : Très bien.</para></listitem>
-		</itemizedlist>
-		</section>
+	</section>
 		<section><title>DIALOGUE 2 SAYING 'GOODBYE'</title>
-		<itemizedlist spacing="compact">
-		<listitem><para>Michel : Au revoir, Madame et ... merci beaucoup.</para></listitem>
-		<listitem><para>Nathalie : Au revoir, Monsieur.</para></listitem>
-		</itemizedlist>
+		<table rowsep="0"><tgroup cols="2">
+		<colspec colwidth="*" colnum="1" />
+		<colspec colwidth="5*" colnum="2" />
+		<tbody>
+		<row><entry><b>Michel</b></entry><entry>Au revoir, Madame et ... merci beaucoup.</entry></row>
+		<row><entry><b>Nathalie</b></entry><entry>Au revoir, Monsieur.</entry></row>
+		</tbody>
+		</tgroup></table>
+	
+	
 		</section>
 		
 		<section><title>DIALOGUE 3 WHEN THINGS GET DIFFICULT ...</title>
-		<itemizedlist spacing="compact">
-		<listitem><para>Jane : Pardon, Monsieur, vous parlez_anglais?</para></listitem>
-		<listitem><para>Garçon : Ah, non, <b>je regrette</b> ...</para></listitem>
-		<listitem><para>Garçon : Bonjour, Madame. <b>Qu'est-ce que vous désirez?</b></para></listitem>
-		<listitem><para>Nathalie : Parlez plus lentement, s'il vous plaît.</para></listitem>
-		<listitem><para>Garçon : D'accord ... Qu'est-ce que vous désirez?</para></listitem>
-		</itemizedlist>
+		<table rowsep="0"><tgroup cols="2">
+			<colspec colwidth="*" colnum="1" />
+			<colspec colwidth="5*" colnum="2" />
+			<tbody>
+			<row><entry><b>Jane</b></entry><entry>Pardon, Monsieur, vous parlez_anglais?</entry></row>
+			<row><entry><b>Garçon</b></entry><entry>Ah, non, <b>je regrette</b> ...</entry></row>
+			<row><entry><b>Garçon</b></entry><entry>Bonjour, Madame. <b>Qu'est-ce que vous désirez?</b></entry></row>
+			<row><entry><b>Nathalie</b></entry><entry>Parlez plus lentement, s'il vous plaît.</entry></row>
+			<row><entry><b>Garçon</b></entry><entry>D'accord ... Qu'est-ce que vous désirez?</entry></row>
+			</tbody>
+		</tgroup></table>
 		</section>
-		
+
 		<note>
 		<para><b>moi</b> me, I</para>
 		<para><b>aussi</b> also, too</para>
 		<para><b>garçon</b> waiter</para>
 		<para><b>je regrette</b> I'm sorry</para>
-		<para><b>Qu'est-ce que vous désirez?</b> (lit.) What do you wish? but used in shops it means <i>Can I help you?</i></para>
+		<para><b>Qu'est-ce que vous désirez?</b> (lit.) <i>What do you wish?</i> but used in shops it means <i>Can I help you?</i></para>
 		</note>
 		
 		<section><title>HOW TO PRONOUNCE ...</title>
@@ -198,6 +204,25 @@
 			individually. The best advice is to say <b>vous</b> until you are addressed as <b>tu</b>
 			or asked to use the <b>tu</b> form: <b>on se tutoie?</b> <i>shall we call each other <b>tu</b>?</i></para>
 		</section>
+	</section>
+	<section><title>HOW TO LEARN VOCABULARY</title>
+	<para>There are several ways of learning vocabulary. Find the way that works best for you; here are a few
+	suggestions:</para>
+	<itemizedlist spacing="compact">
+	<listitem><para>Say the words out loud as you read them.</para></listitem>
+	<listitem><para>Write the words over and over again.</para></listitem>
+	<listitem><para>Listen to the recordings several times.</para></listitem>
+	<listitem><para>Study the list from the beginning to end then backwards.</para></listitem>
+	<listitem><para>Associate the French words with similar sounding words in English, e.g. <b>parlez</b>
+	with <i>parlour</i>, a room where people chat.</para></listitem>
+	<listitem><para>Associate the words with pictures or situations, e.g. <b>bonjour, bonsoir</b>
+	with shaking hands.</para></listitem>
+	<listitem><para>Use coloured pencils to underline/group the words in a way that will help you
+	to remember them.</para></listitem>
+	<listitem><para>Copy the words on to small cards or slips of paper, English on one side, French
+	on the other. Study them in varying order giving the French word if the card comes out with the
+	English on top, or vice versa.</para></listitem>
+	</itemizedlist>
 	</section>
 
 </chapter>
